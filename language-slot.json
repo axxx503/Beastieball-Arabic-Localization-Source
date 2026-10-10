@@ -1,0 +1,10 @@
+{
+  "path": "loc/Русский.csv",
+  "menu_label": "Русский",
+  "translation_source": "loc/English.csv",
+  "original_sha256": "9b797d970466a2180895008ff3e5869327db64d2f4a8ce6b2c4525f8ea9ee3b9",
+  "preserve_english": true,
+  "human_instruction": "Replace the Russian option with Arabic authored from English; retain Russian's menu label and allow immediate switching back to English.",
+  "embedded_strings_must_follow_selected_language": true,
+  "font_profiles_must_preserve_english_rendering": true
+}

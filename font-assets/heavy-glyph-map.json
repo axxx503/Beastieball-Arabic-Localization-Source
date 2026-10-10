@@ -1,0 +1,1457 @@
+{
+  "role": "heavy",
+  "font_file": "AcademiaFriendly-Regular.ttf",
+  "font_sha256": "59de0bb05efe758602fbc087d45447b0ac16f3a51122b66ba4ccc15e0eedbcb7",
+  "family": "Academia Friendly",
+  "mapped_bitmap_characters": 289,
+  "aliases_from_original_GSUB": [],
+  "missing_standard_arabic_forms": [],
+  "records": [
+    {
+      "character": 32,
+      "glyph_id": 90,
+      "original_glyph": "u0020"
+    },
+    {
+      "character": 33,
+      "glyph_id": 67,
+      "original_glyph": "u0021"
+    },
+    {
+      "character": 34,
+      "glyph_id": 80,
+      "original_glyph": "u0022"
+    },
+    {
+      "character": 35,
+      "glyph_id": 86,
+      "original_glyph": "u0023"
+    },
+    {
+      "character": 36,
+      "glyph_id": 87,
+      "original_glyph": "u0024"
+    },
+    {
+      "character": 37,
+      "glyph_id": 83,
+      "original_glyph": "u0025"
+    },
+    {
+      "character": 38,
+      "glyph_id": 89,
+      "original_glyph": "u0026"
+    },
+    {
+      "character": 39,
+      "glyph_id": 79,
+      "original_glyph": "u0027"
+    },
+    {
+      "character": 40,
+      "glyph_id": 75,
+      "original_glyph": "u0028"
+    },
+    {
+      "character": 41,
+      "glyph_id": 76,
+      "original_glyph": "u0029"
+    },
+    {
+      "character": 42,
+      "glyph_id": 84,
+      "original_glyph": "u002A"
+    },
+    {
+      "character": 43,
+      "glyph_id": 71,
+      "original_glyph": "u002B"
+    },
+    {
+      "character": 44,
+      "glyph_id": 64,
+      "original_glyph": "u002C"
+    },
+    {
+      "character": 45,
+      "glyph_id": 69,
+      "original_glyph": "u002D"
+    },
+    {
+      "character": 46,
+      "glyph_id": 63,
+      "original_glyph": "u002E"
+    },
+    {
+      "character": 47,
+      "glyph_id": 73,
+      "original_glyph": "u002F"
+    },
+    {
+      "character": 48,
+      "glyph_id": 53,
+      "original_glyph": "u0030"
+    },
+    {
+      "character": 49,
+      "glyph_id": 54,
+      "original_glyph": "u0031"
+    },
+    {
+      "character": 50,
+      "glyph_id": 55,
+      "original_glyph": "u0032"
+    },
+    {
+      "character": 51,
+      "glyph_id": 56,
+      "original_glyph": "u0033"
+    },
+    {
+      "character": 52,
+      "glyph_id": 57,
+      "original_glyph": "u0034"
+    },
+    {
+      "character": 53,
+      "glyph_id": 58,
+      "original_glyph": "u0035"
+    },
+    {
+      "character": 54,
+      "glyph_id": 59,
+      "original_glyph": "u0036"
+    },
+    {
+      "character": 55,
+      "glyph_id": 60,
+      "original_glyph": "u0037"
+    },
+    {
+      "character": 56,
+      "glyph_id": 61,
+      "original_glyph": "u0038"
+    },
+    {
+      "character": 57,
+      "glyph_id": 62,
+      "original_glyph": "u0039"
+    },
+    {
+      "character": 58,
+      "glyph_id": 65,
+      "original_glyph": "u003A"
+    },
+    {
+      "character": 59,
+      "glyph_id": 66,
+      "original_glyph": "u003B"
+    },
+    {
+      "character": 60,
+      "glyph_id": 81,
+      "original_glyph": "u003C"
+    },
+    {
+      "character": 61,
+      "glyph_id": 72,
+      "original_glyph": "u003D"
+    },
+    {
+      "character": 62,
+      "glyph_id": 82,
+      "original_glyph": "u003E"
+    },
+    {
+      "character": 63,
+      "glyph_id": 68,
+      "original_glyph": "u003F"
+    },
+    {
+      "character": 64,
+      "glyph_id": 88,
+      "original_glyph": "u0040"
+    },
+    {
+      "character": 65,
+      "glyph_id": 1,
+      "original_glyph": "u0041"
+    },
+    {
+      "character": 66,
+      "glyph_id": 2,
+      "original_glyph": "u0042"
+    },
+    {
+      "character": 67,
+      "glyph_id": 3,
+      "original_glyph": "u0043"
+    },
+    {
+      "character": 68,
+      "glyph_id": 4,
+      "original_glyph": "u0044"
+    },
+    {
+      "character": 69,
+      "glyph_id": 5,
+      "original_glyph": "u0045"
+    },
+    {
+      "character": 70,
+      "glyph_id": 6,
+      "original_glyph": "u0046"
+    },
+    {
+      "character": 71,
+      "glyph_id": 7,
+      "original_glyph": "u0047"
+    },
+    {
+      "character": 72,
+      "glyph_id": 8,
+      "original_glyph": "u0048"
+    },
+    {
+      "character": 73,
+      "glyph_id": 9,
+      "original_glyph": "u0049"
+    },
+    {
+      "character": 74,
+      "glyph_id": 10,
+      "original_glyph": "u004A"
+    },
+    {
+      "character": 75,
+      "glyph_id": 11,
+      "original_glyph": "u004B"
+    },
+    {
+      "character": 76,
+      "glyph_id": 12,
+      "original_glyph": "u004C"
+    },
+    {
+      "character": 77,
+      "glyph_id": 13,
+      "original_glyph": "u004D"
+    },
+    {
+      "character": 78,
+      "glyph_id": 14,
+      "original_glyph": "u004E"
+    },
+    {
+      "character": 79,
+      "glyph_id": 15,
+      "original_glyph": "u004F"
+    },
+    {
+      "character": 80,
+      "glyph_id": 16,
+      "original_glyph": "u0050"
+    },
+    {
+      "character": 81,
+      "glyph_id": 17,
+      "original_glyph": "u0051"
+    },
+    {
+      "character": 82,
+      "glyph_id": 18,
+      "original_glyph": "u0052"
+    },
+    {
+      "character": 83,
+      "glyph_id": 19,
+      "original_glyph": "u0053"
+    },
+    {
+      "character": 84,
+      "glyph_id": 20,
+      "original_glyph": "u0054"
+    },
+    {
+      "character": 85,
+      "glyph_id": 21,
+      "original_glyph": "u0055"
+    },
+    {
+      "character": 86,
+      "glyph_id": 22,
+      "original_glyph": "u0056"
+    },
+    {
+      "character": 87,
+      "glyph_id": 23,
+      "original_glyph": "u0057"
+    },
+    {
+      "character": 88,
+      "glyph_id": 24,
+      "original_glyph": "u0058"
+    },
+    {
+      "character": 89,
+      "glyph_id": 25,
+      "original_glyph": "u0059"
+    },
+    {
+      "character": 90,
+      "glyph_id": 26,
+      "original_glyph": "u005A"
+    },
+    {
+      "character": 91,
+      "glyph_id": 77,
+      "original_glyph": "u005B"
+    },
+    {
+      "character": 92,
+      "glyph_id": 74,
+      "original_glyph": "u005C"
+    },
+    {
+      "character": 93,
+      "glyph_id": 78,
+      "original_glyph": "u005D"
+    },
+    {
+      "character": 95,
+      "glyph_id": 70,
+      "original_glyph": "u005F"
+    },
+    {
+      "character": 97,
+      "glyph_id": 27,
+      "original_glyph": "u0061"
+    },
+    {
+      "character": 98,
+      "glyph_id": 28,
+      "original_glyph": "u0062"
+    },
+    {
+      "character": 99,
+      "glyph_id": 29,
+      "original_glyph": "u0063"
+    },
+    {
+      "character": 100,
+      "glyph_id": 30,
+      "original_glyph": "u0064"
+    },
+    {
+      "character": 101,
+      "glyph_id": 31,
+      "original_glyph": "u0065"
+    },
+    {
+      "character": 102,
+      "glyph_id": 32,
+      "original_glyph": "u0066"
+    },
+    {
+      "character": 103,
+      "glyph_id": 33,
+      "original_glyph": "u0067"
+    },
+    {
+      "character": 104,
+      "glyph_id": 34,
+      "original_glyph": "u0068"
+    },
+    {
+      "character": 105,
+      "glyph_id": 35,
+      "original_glyph": "u0069"
+    },
+    {
+      "character": 106,
+      "glyph_id": 36,
+      "original_glyph": "u006A"
+    },
+    {
+      "character": 107,
+      "glyph_id": 37,
+      "original_glyph": "u006B"
+    },
+    {
+      "character": 108,
+      "glyph_id": 38,
+      "original_glyph": "u006C"
+    },
+    {
+      "character": 109,
+      "glyph_id": 39,
+      "original_glyph": "u006D"
+    },
+    {
+      "character": 110,
+      "glyph_id": 40,
+      "original_glyph": "u006E"
+    },
+    {
+      "character": 111,
+      "glyph_id": 41,
+      "original_glyph": "u006F"
+    },
+    {
+      "character": 112,
+      "glyph_id": 42,
+      "original_glyph": "u0070"
+    },
+    {
+      "character": 113,
+      "glyph_id": 43,
+      "original_glyph": "u0071"
+    },
+    {
+      "character": 114,
+      "glyph_id": 44,
+      "original_glyph": "u0072"
+    },
+    {
+      "character": 115,
+      "glyph_id": 45,
+      "original_glyph": "u0073"
+    },
+    {
+      "character": 116,
+      "glyph_id": 46,
+      "original_glyph": "u0074"
+    },
+    {
+      "character": 117,
+      "glyph_id": 47,
+      "original_glyph": "u0075"
+    },
+    {
+      "character": 118,
+      "glyph_id": 48,
+      "original_glyph": "u0076"
+    },
+    {
+      "character": 119,
+      "glyph_id": 49,
+      "original_glyph": "u0077"
+    },
+    {
+      "character": 120,
+      "glyph_id": 50,
+      "original_glyph": "u0078"
+    },
+    {
+      "character": 121,
+      "glyph_id": 51,
+      "original_glyph": "u0079"
+    },
+    {
+      "character": 122,
+      "glyph_id": 52,
+      "original_glyph": "u007A"
+    },
+    {
+      "character": 124,
+      "glyph_id": 85,
+      "original_glyph": "u007C"
+    },
+    {
+      "character": 160,
+      "glyph_id": 90,
+      "original_glyph": "u0020"
+    },
+    {
+      "character": 171,
+      "glyph_id": 257,
+      "original_glyph": "u00AB"
+    },
+    {
+      "character": 187,
+      "glyph_id": 258,
+      "original_glyph": "u00BB"
+    },
+    {
+      "character": 215,
+      "glyph_id": 255,
+      "original_glyph": "u00D7"
+    },
+    {
+      "character": 1548,
+      "glyph_id": 64,
+      "original_glyph": "u002C"
+    },
+    {
+      "character": 1563,
+      "glyph_id": 66,
+      "original_glyph": "u003B"
+    },
+    {
+      "character": 1567,
+      "glyph_id": 68,
+      "original_glyph": "u003F"
+    },
+    {
+      "character": 1569,
+      "glyph_id": 91,
+      "original_glyph": "ar0621.isol"
+    },
+    {
+      "character": 1570,
+      "glyph_id": 95,
+      "original_glyph": "ar0622.isol"
+    },
+    {
+      "character": 1571,
+      "glyph_id": 99,
+      "original_glyph": "ar0623.isol"
+    },
+    {
+      "character": 1572,
+      "glyph_id": 103,
+      "original_glyph": "ar0624.isol"
+    },
+    {
+      "character": 1573,
+      "glyph_id": 107,
+      "original_glyph": "ar0625.isol"
+    },
+    {
+      "character": 1574,
+      "glyph_id": 111,
+      "original_glyph": "ar0626.isol"
+    },
+    {
+      "character": 1575,
+      "glyph_id": 115,
+      "original_glyph": "ar0627.isol"
+    },
+    {
+      "character": 1576,
+      "glyph_id": 119,
+      "original_glyph": "ar0628.isol"
+    },
+    {
+      "character": 1577,
+      "glyph_id": 231,
+      "original_glyph": "ar0629.isol"
+    },
+    {
+      "character": 1578,
+      "glyph_id": 123,
+      "original_glyph": "ar062A.isol"
+    },
+    {
+      "character": 1579,
+      "glyph_id": 127,
+      "original_glyph": "ar062B.isol"
+    },
+    {
+      "character": 1580,
+      "glyph_id": 131,
+      "original_glyph": "ar062C.isol"
+    },
+    {
+      "character": 1581,
+      "glyph_id": 135,
+      "original_glyph": "ar062D.isol"
+    },
+    {
+      "character": 1582,
+      "glyph_id": 139,
+      "original_glyph": "ar062E.isol"
+    },
+    {
+      "character": 1583,
+      "glyph_id": 143,
+      "original_glyph": "ar062F.isol"
+    },
+    {
+      "character": 1584,
+      "glyph_id": 147,
+      "original_glyph": "ar0630.isol"
+    },
+    {
+      "character": 1585,
+      "glyph_id": 151,
+      "original_glyph": "ar0631.isol"
+    },
+    {
+      "character": 1586,
+      "glyph_id": 155,
+      "original_glyph": "ar0632.isol"
+    },
+    {
+      "character": 1587,
+      "glyph_id": 159,
+      "original_glyph": "ar0633.isol"
+    },
+    {
+      "character": 1588,
+      "glyph_id": 163,
+      "original_glyph": "ar0634.isol"
+    },
+    {
+      "character": 1589,
+      "glyph_id": 167,
+      "original_glyph": "ar0635.isol"
+    },
+    {
+      "character": 1590,
+      "glyph_id": 171,
+      "original_glyph": "ar0636.isol"
+    },
+    {
+      "character": 1591,
+      "glyph_id": 175,
+      "original_glyph": "ar0637.isol"
+    },
+    {
+      "character": 1592,
+      "glyph_id": 179,
+      "original_glyph": "ar0638.isol"
+    },
+    {
+      "character": 1593,
+      "glyph_id": 183,
+      "original_glyph": "ar0639.isol"
+    },
+    {
+      "character": 1594,
+      "glyph_id": 187,
+      "original_glyph": "ar063A.isol"
+    },
+    {
+      "character": 1600,
+      "glyph_id": 235,
+      "original_glyph": "ar0640.isol"
+    },
+    {
+      "character": 1601,
+      "glyph_id": 191,
+      "original_glyph": "ar0641.isol"
+    },
+    {
+      "character": 1602,
+      "glyph_id": 195,
+      "original_glyph": "ar0642.isol"
+    },
+    {
+      "character": 1603,
+      "glyph_id": 199,
+      "original_glyph": "ar0643.isol"
+    },
+    {
+      "character": 1604,
+      "glyph_id": 203,
+      "original_glyph": "ar0644.isol"
+    },
+    {
+      "character": 1605,
+      "glyph_id": 207,
+      "original_glyph": "ar0645.isol"
+    },
+    {
+      "character": 1606,
+      "glyph_id": 211,
+      "original_glyph": "ar0646.isol"
+    },
+    {
+      "character": 1607,
+      "glyph_id": 215,
+      "original_glyph": "ar0647.isol"
+    },
+    {
+      "character": 1608,
+      "glyph_id": 219,
+      "original_glyph": "ar0648.isol"
+    },
+    {
+      "character": 1609,
+      "glyph_id": 227,
+      "original_glyph": "ar0649.isol"
+    },
+    {
+      "character": 1610,
+      "glyph_id": 223,
+      "original_glyph": "ar064A.isol"
+    },
+    {
+      "character": 1611,
+      "glyph_id": 247,
+      "original_glyph": "u064B"
+    },
+    {
+      "character": 1612,
+      "glyph_id": 248,
+      "original_glyph": "u064C"
+    },
+    {
+      "character": 1613,
+      "glyph_id": 249,
+      "original_glyph": "u064D"
+    },
+    {
+      "character": 1614,
+      "glyph_id": 250,
+      "original_glyph": "u064E"
+    },
+    {
+      "character": 1615,
+      "glyph_id": 251,
+      "original_glyph": "u064F"
+    },
+    {
+      "character": 1616,
+      "glyph_id": 252,
+      "original_glyph": "u0650"
+    },
+    {
+      "character": 1617,
+      "glyph_id": 253,
+      "original_glyph": "u0651"
+    },
+    {
+      "character": 1618,
+      "glyph_id": 254,
+      "original_glyph": "u0652"
+    },
+    {
+      "character": 1632,
+      "glyph_id": 53,
+      "original_glyph": "u0030"
+    },
+    {
+      "character": 1633,
+      "glyph_id": 54,
+      "original_glyph": "u0031"
+    },
+    {
+      "character": 1634,
+      "glyph_id": 55,
+      "original_glyph": "u0032"
+    },
+    {
+      "character": 1635,
+      "glyph_id": 56,
+      "original_glyph": "u0033"
+    },
+    {
+      "character": 1636,
+      "glyph_id": 57,
+      "original_glyph": "u0034"
+    },
+    {
+      "character": 1637,
+      "glyph_id": 58,
+      "original_glyph": "u0035"
+    },
+    {
+      "character": 1638,
+      "glyph_id": 59,
+      "original_glyph": "u0036"
+    },
+    {
+      "character": 1639,
+      "glyph_id": 60,
+      "original_glyph": "u0037"
+    },
+    {
+      "character": 1640,
+      "glyph_id": 61,
+      "original_glyph": "u0038"
+    },
+    {
+      "character": 1641,
+      "glyph_id": 62,
+      "original_glyph": "u0039"
+    },
+    {
+      "character": 1642,
+      "glyph_id": 83,
+      "original_glyph": "u0025"
+    },
+    {
+      "character": 1643,
+      "glyph_id": 63,
+      "original_glyph": "u002E"
+    },
+    {
+      "character": 1644,
+      "glyph_id": 64,
+      "original_glyph": "u002C"
+    },
+    {
+      "character": 8211,
+      "glyph_id": 69,
+      "original_glyph": "u002D"
+    },
+    {
+      "character": 8212,
+      "glyph_id": 69,
+      "original_glyph": "u002D"
+    },
+    {
+      "character": 8216,
+      "glyph_id": 79,
+      "original_glyph": "u0027"
+    },
+    {
+      "character": 8217,
+      "glyph_id": 79,
+      "original_glyph": "u0027"
+    },
+    {
+      "character": 8220,
+      "glyph_id": 80,
+      "original_glyph": "u0022"
+    },
+    {
+      "character": 8221,
+      "glyph_id": 80,
+      "original_glyph": "u0022"
+    },
+    {
+      "character": 8230,
+      "glyph_id": 256,
+      "original_glyph": "u2026"
+    },
+    {
+      "character": 64488,
+      "glyph_id": 229,
+      "original_glyph": "ar0649.init"
+    },
+    {
+      "character": 64489,
+      "glyph_id": 230,
+      "original_glyph": "ar0649.medi"
+    },
+    {
+      "character": 65152,
+      "glyph_id": 91,
+      "original_glyph": "ar0621.isol"
+    },
+    {
+      "character": 65153,
+      "glyph_id": 95,
+      "original_glyph": "ar0622.isol"
+    },
+    {
+      "character": 65154,
+      "glyph_id": 96,
+      "original_glyph": "ar0622.fina"
+    },
+    {
+      "character": 65155,
+      "glyph_id": 99,
+      "original_glyph": "ar0623.isol"
+    },
+    {
+      "character": 65156,
+      "glyph_id": 100,
+      "original_glyph": "ar0623.fina"
+    },
+    {
+      "character": 65157,
+      "glyph_id": 103,
+      "original_glyph": "ar0624.isol"
+    },
+    {
+      "character": 65158,
+      "glyph_id": 104,
+      "original_glyph": "ar0624.fina"
+    },
+    {
+      "character": 65159,
+      "glyph_id": 107,
+      "original_glyph": "ar0625.isol"
+    },
+    {
+      "character": 65160,
+      "glyph_id": 108,
+      "original_glyph": "ar0625.fina"
+    },
+    {
+      "character": 65161,
+      "glyph_id": 111,
+      "original_glyph": "ar0626.isol"
+    },
+    {
+      "character": 65162,
+      "glyph_id": 112,
+      "original_glyph": "ar0626.fina"
+    },
+    {
+      "character": 65163,
+      "glyph_id": 113,
+      "original_glyph": "ar0626.init"
+    },
+    {
+      "character": 65164,
+      "glyph_id": 114,
+      "original_glyph": "ar0626.medi"
+    },
+    {
+      "character": 65165,
+      "glyph_id": 115,
+      "original_glyph": "ar0627.isol"
+    },
+    {
+      "character": 65166,
+      "glyph_id": 116,
+      "original_glyph": "ar0627.fina"
+    },
+    {
+      "character": 65167,
+      "glyph_id": 119,
+      "original_glyph": "ar0628.isol"
+    },
+    {
+      "character": 65168,
+      "glyph_id": 120,
+      "original_glyph": "ar0628.fina"
+    },
+    {
+      "character": 65169,
+      "glyph_id": 121,
+      "original_glyph": "ar0628.init"
+    },
+    {
+      "character": 65170,
+      "glyph_id": 122,
+      "original_glyph": "ar0628.medi"
+    },
+    {
+      "character": 65171,
+      "glyph_id": 231,
+      "original_glyph": "ar0629.isol"
+    },
+    {
+      "character": 65172,
+      "glyph_id": 232,
+      "original_glyph": "ar0629.fina"
+    },
+    {
+      "character": 65173,
+      "glyph_id": 123,
+      "original_glyph": "ar062A.isol"
+    },
+    {
+      "character": 65174,
+      "glyph_id": 124,
+      "original_glyph": "ar062A.fina"
+    },
+    {
+      "character": 65175,
+      "glyph_id": 125,
+      "original_glyph": "ar062A.init"
+    },
+    {
+      "character": 65176,
+      "glyph_id": 126,
+      "original_glyph": "ar062A.medi"
+    },
+    {
+      "character": 65177,
+      "glyph_id": 127,
+      "original_glyph": "ar062B.isol"
+    },
+    {
+      "character": 65178,
+      "glyph_id": 128,
+      "original_glyph": "ar062B.fina"
+    },
+    {
+      "character": 65179,
+      "glyph_id": 129,
+      "original_glyph": "ar062B.init"
+    },
+    {
+      "character": 65180,
+      "glyph_id": 130,
+      "original_glyph": "ar062B.medi"
+    },
+    {
+      "character": 65181,
+      "glyph_id": 131,
+      "original_glyph": "ar062C.isol"
+    },
+    {
+      "character": 65182,
+      "glyph_id": 132,
+      "original_glyph": "ar062C.fina"
+    },
+    {
+      "character": 65183,
+      "glyph_id": 133,
+      "original_glyph": "ar062C.init"
+    },
+    {
+      "character": 65184,
+      "glyph_id": 134,
+      "original_glyph": "ar062C.medi"
+    },
+    {
+      "character": 65185,
+      "glyph_id": 135,
+      "original_glyph": "ar062D.isol"
+    },
+    {
+      "character": 65186,
+      "glyph_id": 136,
+      "original_glyph": "ar062D.fina"
+    },
+    {
+      "character": 65187,
+      "glyph_id": 137,
+      "original_glyph": "ar062D.init"
+    },
+    {
+      "character": 65188,
+      "glyph_id": 138,
+      "original_glyph": "ar062D.medi"
+    },
+    {
+      "character": 65189,
+      "glyph_id": 139,
+      "original_glyph": "ar062E.isol"
+    },
+    {
+      "character": 65190,
+      "glyph_id": 140,
+      "original_glyph": "ar062E.fina"
+    },
+    {
+      "character": 65191,
+      "glyph_id": 141,
+      "original_glyph": "ar062E.init"
+    },
+    {
+      "character": 65192,
+      "glyph_id": 142,
+      "original_glyph": "ar062E.medi"
+    },
+    {
+      "character": 65193,
+      "glyph_id": 143,
+      "original_glyph": "ar062F.isol"
+    },
+    {
+      "character": 65194,
+      "glyph_id": 144,
+      "original_glyph": "ar062F.fina"
+    },
+    {
+      "character": 65195,
+      "glyph_id": 147,
+      "original_glyph": "ar0630.isol"
+    },
+    {
+      "character": 65196,
+      "glyph_id": 148,
+      "original_glyph": "ar0630.fina"
+    },
+    {
+      "character": 65197,
+      "glyph_id": 151,
+      "original_glyph": "ar0631.isol"
+    },
+    {
+      "character": 65198,
+      "glyph_id": 152,
+      "original_glyph": "ar0631.fina"
+    },
+    {
+      "character": 65199,
+      "glyph_id": 155,
+      "original_glyph": "ar0632.isol"
+    },
+    {
+      "character": 65200,
+      "glyph_id": 156,
+      "original_glyph": "ar0632.fina"
+    },
+    {
+      "character": 65201,
+      "glyph_id": 159,
+      "original_glyph": "ar0633.isol"
+    },
+    {
+      "character": 65202,
+      "glyph_id": 160,
+      "original_glyph": "ar0633.fina"
+    },
+    {
+      "character": 65203,
+      "glyph_id": 161,
+      "original_glyph": "ar0633.init"
+    },
+    {
+      "character": 65204,
+      "glyph_id": 162,
+      "original_glyph": "ar0633.medi"
+    },
+    {
+      "character": 65205,
+      "glyph_id": 163,
+      "original_glyph": "ar0634.isol"
+    },
+    {
+      "character": 65206,
+      "glyph_id": 164,
+      "original_glyph": "ar0634.fina"
+    },
+    {
+      "character": 65207,
+      "glyph_id": 165,
+      "original_glyph": "ar0634.init"
+    },
+    {
+      "character": 65208,
+      "glyph_id": 166,
+      "original_glyph": "ar0634.medi"
+    },
+    {
+      "character": 65209,
+      "glyph_id": 167,
+      "original_glyph": "ar0635.isol"
+    },
+    {
+      "character": 65210,
+      "glyph_id": 168,
+      "original_glyph": "ar0635.fina"
+    },
+    {
+      "character": 65211,
+      "glyph_id": 169,
+      "original_glyph": "ar0635.init"
+    },
+    {
+      "character": 65212,
+      "glyph_id": 170,
+      "original_glyph": "ar0635.medi"
+    },
+    {
+      "character": 65213,
+      "glyph_id": 171,
+      "original_glyph": "ar0636.isol"
+    },
+    {
+      "character": 65214,
+      "glyph_id": 172,
+      "original_glyph": "ar0636.fina"
+    },
+    {
+      "character": 65215,
+      "glyph_id": 173,
+      "original_glyph": "ar0636.init"
+    },
+    {
+      "character": 65216,
+      "glyph_id": 174,
+      "original_glyph": "ar0636.medi"
+    },
+    {
+      "character": 65217,
+      "glyph_id": 175,
+      "original_glyph": "ar0637.isol"
+    },
+    {
+      "character": 65218,
+      "glyph_id": 176,
+      "original_glyph": "ar0637.fina"
+    },
+    {
+      "character": 65219,
+      "glyph_id": 177,
+      "original_glyph": "ar0637.init"
+    },
+    {
+      "character": 65220,
+      "glyph_id": 178,
+      "original_glyph": "ar0637.medi"
+    },
+    {
+      "character": 65221,
+      "glyph_id": 179,
+      "original_glyph": "ar0638.isol"
+    },
+    {
+      "character": 65222,
+      "glyph_id": 180,
+      "original_glyph": "ar0638.fina"
+    },
+    {
+      "character": 65223,
+      "glyph_id": 181,
+      "original_glyph": "ar0638.init"
+    },
+    {
+      "character": 65224,
+      "glyph_id": 182,
+      "original_glyph": "ar0638.medi"
+    },
+    {
+      "character": 65225,
+      "glyph_id": 183,
+      "original_glyph": "ar0639.isol"
+    },
+    {
+      "character": 65226,
+      "glyph_id": 184,
+      "original_glyph": "ar0639.fina"
+    },
+    {
+      "character": 65227,
+      "glyph_id": 185,
+      "original_glyph": "ar0639.init"
+    },
+    {
+      "character": 65228,
+      "glyph_id": 186,
+      "original_glyph": "ar0639.medi"
+    },
+    {
+      "character": 65229,
+      "glyph_id": 187,
+      "original_glyph": "ar063A.isol"
+    },
+    {
+      "character": 65230,
+      "glyph_id": 188,
+      "original_glyph": "ar063A.fina"
+    },
+    {
+      "character": 65231,
+      "glyph_id": 189,
+      "original_glyph": "ar063A.init"
+    },
+    {
+      "character": 65232,
+      "glyph_id": 190,
+      "original_glyph": "ar063A.medi"
+    },
+    {
+      "character": 65233,
+      "glyph_id": 191,
+      "original_glyph": "ar0641.isol"
+    },
+    {
+      "character": 65234,
+      "glyph_id": 192,
+      "original_glyph": "ar0641.fina"
+    },
+    {
+      "character": 65235,
+      "glyph_id": 193,
+      "original_glyph": "ar0641.init"
+    },
+    {
+      "character": 65236,
+      "glyph_id": 194,
+      "original_glyph": "ar0641.medi"
+    },
+    {
+      "character": 65237,
+      "glyph_id": 195,
+      "original_glyph": "ar0642.isol"
+    },
+    {
+      "character": 65238,
+      "glyph_id": 196,
+      "original_glyph": "ar0642.fina"
+    },
+    {
+      "character": 65239,
+      "glyph_id": 197,
+      "original_glyph": "ar0642.init"
+    },
+    {
+      "character": 65240,
+      "glyph_id": 198,
+      "original_glyph": "ar0642.medi"
+    },
+    {
+      "character": 65241,
+      "glyph_id": 199,
+      "original_glyph": "ar0643.isol"
+    },
+    {
+      "character": 65242,
+      "glyph_id": 200,
+      "original_glyph": "ar0643.fina"
+    },
+    {
+      "character": 65243,
+      "glyph_id": 201,
+      "original_glyph": "ar0643.init"
+    },
+    {
+      "character": 65244,
+      "glyph_id": 202,
+      "original_glyph": "ar0643.medi"
+    },
+    {
+      "character": 65245,
+      "glyph_id": 203,
+      "original_glyph": "ar0644.isol"
+    },
+    {
+      "character": 65246,
+      "glyph_id": 204,
+      "original_glyph": "ar0644.fina"
+    },
+    {
+      "character": 65247,
+      "glyph_id": 205,
+      "original_glyph": "ar0644.init"
+    },
+    {
+      "character": 65248,
+      "glyph_id": 206,
+      "original_glyph": "ar0644.medi"
+    },
+    {
+      "character": 65249,
+      "glyph_id": 207,
+      "original_glyph": "ar0645.isol"
+    },
+    {
+      "character": 65250,
+      "glyph_id": 208,
+      "original_glyph": "ar0645.fina"
+    },
+    {
+      "character": 65251,
+      "glyph_id": 209,
+      "original_glyph": "ar0645.init"
+    },
+    {
+      "character": 65252,
+      "glyph_id": 210,
+      "original_glyph": "ar0645.medi"
+    },
+    {
+      "character": 65253,
+      "glyph_id": 211,
+      "original_glyph": "ar0646.isol"
+    },
+    {
+      "character": 65254,
+      "glyph_id": 212,
+      "original_glyph": "ar0646.fina"
+    },
+    {
+      "character": 65255,
+      "glyph_id": 213,
+      "original_glyph": "ar0646.init"
+    },
+    {
+      "character": 65256,
+      "glyph_id": 214,
+      "original_glyph": "ar0646.medi"
+    },
+    {
+      "character": 65257,
+      "glyph_id": 215,
+      "original_glyph": "ar0647.isol"
+    },
+    {
+      "character": 65258,
+      "glyph_id": 216,
+      "original_glyph": "ar0647.fina"
+    },
+    {
+      "character": 65259,
+      "glyph_id": 217,
+      "original_glyph": "ar0647.init"
+    },
+    {
+      "character": 65260,
+      "glyph_id": 218,
+      "original_glyph": "ar0647.medi"
+    },
+    {
+      "character": 65261,
+      "glyph_id": 219,
+      "original_glyph": "ar0648.isol"
+    },
+    {
+      "character": 65262,
+      "glyph_id": 220,
+      "original_glyph": "ar0648.fina"
+    },
+    {
+      "character": 65263,
+      "glyph_id": 227,
+      "original_glyph": "ar0649.isol"
+    },
+    {
+      "character": 65264,
+      "glyph_id": 228,
+      "original_glyph": "ar0649.fina"
+    },
+    {
+      "character": 65265,
+      "glyph_id": 223,
+      "original_glyph": "ar064A.isol"
+    },
+    {
+      "character": 65266,
+      "glyph_id": 224,
+      "original_glyph": "ar064A.fina"
+    },
+    {
+      "character": 65267,
+      "glyph_id": 225,
+      "original_glyph": "ar064A.init"
+    },
+    {
+      "character": 65268,
+      "glyph_id": 226,
+      "original_glyph": "ar064A.medi"
+    },
+    {
+      "character": 65269,
+      "glyph_id": 239,
+      "original_glyph": "ligFEF5"
+    },
+    {
+      "character": 65270,
+      "glyph_id": 240,
+      "original_glyph": "ligFEF6"
+    },
+    {
+      "character": 65271,
+      "glyph_id": 241,
+      "original_glyph": "ligFEF7"
+    },
+    {
+      "character": 65272,
+      "glyph_id": 242,
+      "original_glyph": "ligFEF8"
+    },
+    {
+      "character": 65273,
+      "glyph_id": 243,
+      "original_glyph": "ligFEF9"
+    },
+    {
+      "character": 65274,
+      "glyph_id": 244,
+      "original_glyph": "ligFEFA"
+    },
+    {
+      "character": 65275,
+      "glyph_id": 245,
+      "original_glyph": "ligFEFB"
+    },
+    {
+      "character": 65276,
+      "glyph_id": 246,
+      "original_glyph": "ligFEFC"
+    }
+  ],
+  "in_game_verified": false
+}

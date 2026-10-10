@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "scope": "Hash-bound source syntax repair and whole-string literal-label exceptions only; no blanket removal of markup validation",
+  "repairs": {
+    "Fanspike_Other11Say_001": {
+      "source_sha256": "10b80ea6a61199a5e048e6ccc5b341019417fc44ac103047580c4a05862fd24b",
+      "find": "[/shake}",
+      "replace": "[/shake]",
+      "reason": "Original closing bracket is a brace; repair the closing shake token before translation."
+    },
+    "Game_Draw64_232": {
+      "source_sha256": "e69328ce0999e750c79ae77b030f00048370e7f88065f150f3d02594ac1a5f34",
+      "find": "[/color\\n",
+      "replace": "[/color]\\n",
+      "reason": "Original closing color tag lacks a closing bracket before its escaped newline."
+    }
+  },
+  "literal_labels": {
+    "Game_Draw64_216": {
+      "source_sha256": "778d5d27b716881dd9d3b58baaed62878f93076984cf0cbb45d393bedf363cb2",
+      "source": "[None]",
+      "arabic": "[لا شيء]",
+      "reason": "Entire bracketed label contains human-facing prose, not a renderer command."
+    },
+    "drawteamsavecard_003": {
+      "source_sha256": "3754aff4e02f1b499ff9ab8f87ac0b0be01cacf52dffd8600f22a97f97e1a765",
+      "source": "[Random Team]",
+      "arabic": "[فريق عشوائي]",
+      "reason": "Entire bracketed label contains human-facing prose, not a renderer command."
+    },
+    "drawteamsavecard_004": {
+      "source_sha256": "e8264e47836eaf91976ca8f59d0ebd76becdd5c01fe765ba58c7194021f8b27a",
+      "source": "[In-Game Party]",
+      "arabic": "[فريق اللعب الحالي]",
+      "reason": "Entire bracketed label contains human-facing prose, not a renderer command."
+    }
+  }
+}

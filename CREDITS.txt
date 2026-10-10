@@ -1,0 +1,4 @@
+Arabic localization: axxx503.
+Font: Academia Friendly Regular — original design for v7dt / axxx503.
+Patch decoder: xdelta3 — Joshua MacDonald; dependency credits and licenses are included.
+Original game and assets belong to their respective creators and rights holders.

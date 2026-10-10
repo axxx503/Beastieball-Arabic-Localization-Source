@@ -1,0 +1,163 @@
+{
+  "game": "Beastieball",
+  "game_directory": "H:\\SteamLibrary\\steamapps\\common\\Beastieball",
+  "timestamp_utc": "2026-10-09T05:25:23.412071+00:00",
+  "game_launched": false,
+  "game_files_modified": false,
+  "saves_accessed": false,
+  "font_selection_pending_user": true,
+  "translated_records": 0,
+  "top_level_inventory": [
+    {
+      "name": "audio",
+      "is_directory": true,
+      "bytes": null
+    },
+    {
+      "name": "audio_data.json",
+      "is_directory": false,
+      "bytes": 1826421
+    },
+    {
+      "name": "beastie_data",
+      "is_directory": false,
+      "bytes": 742181
+    },
+    {
+      "name": "beastie_names.txt",
+      "is_directory": false,
+      "bytes": 34070
+    },
+    {
+      "name": "beastieball.exe",
+      "is_directory": false,
+      "bytes": 87211008
+    },
+    {
+      "name": "credits.txt",
+      "is_directory": false,
+      "bytes": 33083
+    },
+    {
+      "name": "data.win",
+      "is_directory": false,
+      "bytes": 287445340
+    },
+    {
+      "name": "execute_shell_simple_ext_x64.dll",
+      "is_directory": false,
+      "bytes": 3072
+    },
+    {
+      "name": "ftBold.yy",
+      "is_directory": false,
+      "bytes": 8846
+    },
+    {
+      "name": "ftEditor.yy",
+      "is_directory": false,
+      "bytes": 12694
+    },
+    {
+      "name": "ftSport.yy",
+      "is_directory": false,
+      "bytes": 9277
+    },
+    {
+      "name": "ftText.yy",
+      "is_directory": false,
+      "bytes": 15104
+    },
+    {
+      "name": "ftUI.yy",
+      "is_directory": false,
+      "bytes": 8815
+    },
+    {
+      "name": "loc",
+      "is_directory": true,
+      "bytes": null
+    },
+    {
+      "name": "models",
+      "is_directory": true,
+      "bytes": null
+    },
+    {
+      "name": "native_cursor.js",
+      "is_directory": false,
+      "bytes": 13676
+    },
+    {
+      "name": "native_cursor_x64.dll",
+      "is_directory": false,
+      "bytes": 10752
+    },
+    {
+      "name": "Noto Sans CJK Bold.otf",
+      "is_directory": false,
+      "bytes": 17111432
+    },
+    {
+      "name": "options.ini",
+      "is_directory": false,
+      "bytes": 247
+    },
+    {
+      "name": "research",
+      "is_directory": true,
+      "bytes": null
+    },
+    {
+      "name": "steam_api64.dll",
+      "is_directory": false,
+      "bytes": 319584
+    },
+    {
+      "name": "Steamworks_x64.dll",
+      "is_directory": false,
+      "bytes": 478208
+    },
+    {
+      "name": "tower_data",
+      "is_directory": false,
+      "bytes": 4479
+    },
+    {
+      "name": "window_taskbar_x64.dll",
+      "is_directory": false,
+      "bytes": 5120
+    },
+    {
+      "name": "world_data",
+      "is_directory": true,
+      "bytes": null
+    }
+  ],
+  "original_fingerprints": {
+    "beastieball.exe": "ef8295592bfe1541bdea70097518c5e38e96516527a5ee5f6843debbdcce29d5",
+    "data.win": "9c7fcf80ff4030bdeb948c6cfa305d2bfb9eb82860b6b6fcae97b4b88ce03ca0",
+    "loc/English.csv": "e1b4736a743de3d8ca540ee64f54baf2158a7621c92c121aef6187e16d5fede4",
+    "ftText.yy": "a6d2f17f7bdab0e377bf9e97086705fbd013fb20da0c9fe65c8c01c1d7083555",
+    "ftBold.yy": "a5d916b24b6e58e47442b9eda1ebfaaa0836a016e9b9c18090448df494d8c516",
+    "ftUI.yy": "7e24db70f5dc7d2928c196bdb59a417f816480ac6c4499de67756f9e770c4781",
+    "ftSport.yy": "9f23e32496589bdbe70f3e7b1f33775a16a85b15c01f82a84dca9994f6dcc5e2",
+    "credits.txt": "eb3d7719767ecabd337b60636f5e0fd3c21bd274a3f618eded421253955e5380"
+  },
+  "data_win_first_12_bytes_hex": "464f524d5411221147454e38",
+  "english_csv": {
+    "header": [
+      "ID",
+      "English"
+    ],
+    "data_rows": 17982,
+    "nonempty_text_rows": 17691,
+    "duplicate_id_count": 0,
+    "malformed_row_count": 0
+  },
+  "engine_evidence": {
+    "font_resource_type": "GMFont",
+    "data_file": "data.win",
+    "assessment": "GameMaker resource evidence; exact engine version and runtime rendering paths not analyzed yet"
+  }
+}

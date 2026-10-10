@@ -1,0 +1,1 @@
+Arabic localization for Beastieball, based on English text, with Arabic rendering, translation sources and an All-in-One installer. Arabic replaces the Russian slot; English remains available. Beta with documented known issues.

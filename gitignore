@@ -1,0 +1,10 @@
+build/
+staging/
+private-extracted/
+reverse/
+__pycache__/
+*.pyc
+*.dll
+*.exe
+*.zip
+!installer-payload/*.xdelta

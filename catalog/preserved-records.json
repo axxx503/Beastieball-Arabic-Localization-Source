@@ -1,0 +1,866 @@
+{
+  "wordssetup_001": {
+    "source_sha256": "ad57366865126e55649ecb23ae1d48887544976efea46a48eb5d85a6eeb4d306",
+    "reason": "Original numeric, format, or gender-selection marker; translated team templates are separate records."
+  },
+  "Game_Draw64_010": {
+    "source_sha256": "404957040a344a92600a0371239ad6b0f4fd8d109e51877333f926340ca6c9d5",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_011": {
+    "source_sha256": "1a6a7d73c935ceccb484d0d6dca03742cd8e2fb2ae31876dc662d93fe1a3ba98",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_012": {
+    "source_sha256": "7201de5f89ed8d0afd4160381458a41942a31be5aaa0cda427c7f3c1570f21ab",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_014": {
+    "source_sha256": "9fd0fe00d9cf924ade4a40c2d1f629d72633a04ce596d8c41a7d12a274a2d366",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_004": {
+    "source_sha256": "a845e98c78cf83c743785b5f6578aa413fca9450773627ebdc6659f07ba22e20",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_005": {
+    "source_sha256": "ec4f8e3d1f7cafbdb86e908b6ad83e407ac36a9b3efabd8e24b56d80228be429",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64drawtextpgram_001": {
+    "source_sha256": "e079b5c8da7c98ad0b93984550aa9cbe921d34d1a3d7e25d1410d9c74f5dad83",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_006": {
+    "source_sha256": "f85304700499e372f1eb0ffa4bc2a4e1e5d2303a4fff4fb495a94697e1087337",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_017": {
+    "source_sha256": "6a39e8546c971fafbcf8d67162c3fe379f7b5716450e780dc5f94ffd0c94a9db",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_018": {
+    "source_sha256": "8f8d0bc38c180439066df0014cb1337d4807196c2674ec9fe20886215fdd15ea",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64scribble_019": {
+    "source_sha256": "8c28477acb6e0d7e837022b2e6df3fc2ccbbdbd38316dc6f38c03fa505826866",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_112": {
+    "source_sha256": "fb62fe2ae6b2ae6cd472717ded838cce62600f4789e31aa5873e7e69407848bc",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_115": {
+    "source_sha256": "7b346904f63cc07f1d8cc2d88d7dae08a3f088a0e4159d5214c27a6571a51eb4",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_150": {
+    "source_sha256": "2d8c3e4d539afd8962e6787e93681499ba2545e0f4053a04ffce390d2ba55631",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_165": {
+    "source_sha256": "90bd01633d4a85358f4e5c6fa82b72c9629cb08a7d54eb0db20c2a0c536da6a5",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Game_Draw64_182": {
+    "source_sha256": "70e5610210eec88e45de2d795af5fd9bff402e5e7f5fd8d683348c8e443b5410",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "Game_Draw64_183": {
+    "source_sha256": "0b325337e5d5a43fdfdfcf84f03c2c01b898a2352fd038fa66ab73f1e449e87f",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "Game_Draw64scribble_045": {
+    "source_sha256": "f6a89703af6d163d7e6b77963e9c42347eafcc9b7c6629093387600362007add",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "SceneManager_Draw64_001": {
+    "source_sha256": "876fec6974a4bf9c51f8bf3aaa0cfb667881d4e97d185bc1a91bcd14bed6f270",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "SceneManager_Draw64scribble_001": {
+    "source_sha256": "39c8cfffd94504c6ecc55c7d228573514a3d9adcc2cd5eab1e2a7ce20c660f64",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "phonecallscenes_009": {
+    "source_sha256": "a00644508de97e85263c9d0cd67e63d3c3b5d733bcaddc65b110e501ad5a7b73",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "rileyreconcile_Say_002": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Evolveshroom_Other11Say_008": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "rexchat_Other11Say_001": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Rex_Other11Say_001": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "ItemGet_Say_003": {
+    "source_sha256": "5e8d7e444ced10ae30e0fe56f0ea78f06770dde06963c46bb18cbc539be7c2f0",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "classmapicon_002": {
+    "source_sha256": "fa1e7180cf6c8ea611aeffecae3ff04d94f9558bbd8f2c69960ac883c1f31595",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "drawparty_scribble_001": {
+    "source_sha256": "738f3acb15b33085b770f16dd7ff1386513587523be735bfa56efc72563bf5f7",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "drawtamecard_scribble_001": {
+    "source_sha256": "f55cccade4ac052a1505ad4640cf6faa3b593131be2acbad06bc5c1a93f605bd",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "drawyearning_002": {
+    "source_sha256": "a80e516bfb196e1c48a9acbe39da8fceb6bc82e0d991b8a990b8f3239c7efaed",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "keycodetostring_001": {
+    "source_sha256": "cee1aadd72784818f213526e0898e968d5d88210944e084b7bf792e2566373f6",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_002": {
+    "source_sha256": "c8b33fbc6e56a0e3ab37708d3d12d3d6390006e950b89b4cb2ac20178f7607fb",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_005": {
+    "source_sha256": "bb69fc1cad24c2d6a80bd8d6a50ae43eba927a2922dceca5365fd07db8220d19",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_012": {
+    "source_sha256": "c5b7d0ec4f6976293bbbbbed43c8f538d66f22a8d8871d4178527e4388614c33",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_013": {
+    "source_sha256": "34f4461607521e62b2645b505e7af2267f46a86bc29770063f6710c03f4f1152",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_014": {
+    "source_sha256": "deae2d4d75857c1081f113bcfc950dca567dd5a2e14e6ac8fb8e5785ff4dd5ec",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_015": {
+    "source_sha256": "fd6991f3e34a6f39c0b50675c4d02483d55dbfb3d2152e1e654f3c458f0644dd",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_016": {
+    "source_sha256": "e26fb6fa7b9fa285b15bfd3a2272d0c5c56b33bb5ae91b23cb412014ec697fa7",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_017": {
+    "source_sha256": "e3df0d3c1eac97d9103bd7ca27c1d02df29d3687a4850044ff975bc2424fbf50",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_018": {
+    "source_sha256": "8e2de3335023201ffa4d803767bdf12790c58f4f241554c544bde8bf7b8455a4",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_019": {
+    "source_sha256": "7c96eb02cc9750d69a916f29575b273c86ce9518d958d287c9731997c4a6aaea",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_020": {
+    "source_sha256": "015b7913470194d2a46ead719afc7768a3c4e8af770766cfe7898d7d834c0362",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_021": {
+    "source_sha256": "6cd28ed32abf73d0d64218a8ce983fd5e460ac662b660a556b8939d9d6ae37a3",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_022": {
+    "source_sha256": "1c003eb26aa006fbb940e7ce2b87dd72b24af2ed825b8859cc35f6807c06cc46",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_023": {
+    "source_sha256": "d96b6ec75f4e3593b03024bae3146186e9a2fe18c5447874c39d533b2ebcd744",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_024": {
+    "source_sha256": "a39b6e5111fac52a197813638d2dc58070694e6d83a624e2915c3e2589acab8e",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "keycodetostring_025": {
+    "source_sha256": "6d39eec870a24effe4bccfca294fe13412450f8dc626c7f079ce0e7fdf9751f3",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "namescramble_001": {
+    "source_sha256": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+    "reason": "Latin vowel used by the original name-scrambling algorithm, not human-facing prose."
+  },
+  "namescramble_002": {
+    "source_sha256": "3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea",
+    "reason": "Latin vowel used by the original name-scrambling algorithm, not human-facing prose."
+  },
+  "namescramble_003": {
+    "source_sha256": "de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7",
+    "reason": "Latin vowel used by the original name-scrambling algorithm, not human-facing prose."
+  },
+  "namescramble_004": {
+    "source_sha256": "65c74c15a686187bb6bbf9958f494fc6b80068034a659a9ad44991b08c58f2d2",
+    "reason": "Latin vowel used by the original name-scrambling algorithm, not human-facing prose."
+  },
+  "namescramble_005": {
+    "source_sha256": "0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6",
+    "reason": "Latin vowel used by the original name-scrambling algorithm, not human-facing prose."
+  },
+  "railhouseacademy_Other14Say_005": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "classchat_scribble_001": {
+    "source_sha256": "58c6924cf6b2b815bf6e496be3d087e85ece3aeb0bc5e0176f71d195eb1bdaa6",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "matchmakesystem_scribble_002": {
+    "source_sha256": "e6f36eec2093006bbf6bbc44f8ec977484c54a5de9d810ebd450fb4a63646468",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "credits_Gameby": {
+    "source_sha256": "8a404a6e10208983df77da12de36f66a19d9fbb2d911985dcb6decf95830a964",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BeastieDirectionAnimation": {
+    "source_sha256": "f97a0f84c69a3c2ddb59234e6d9175f6827ddd50acd3afb8bf3e2bc68337fc3b",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_Musicby": {
+    "source_sha256": "90aa99cf41a8010583923acebf30d347daade3a2ed19c73ae514ad23ffab5dfe",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_SounddesignbyAShellinthePit": {
+    "source_sha256": "cb0f7a6dd4dcd62eb99380c3e0c1f8ca91765d7c0f2717a398c4e7f70fd97bdb",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BeastieAnimation": {
+    "source_sha256": "e7e203f5376634c2caaf89a31892d1239c2001d7b1c26ee3cfd83e05ce7ecd30",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_CharacterArt": {
+    "source_sha256": "febd62cf79959137168db43ad9c58026c4d2eaca9cf9e6507051e9cbb4f39e4d",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BeastieConceptsPixelsAdditional3DHiddenTrack": {
+    "source_sha256": "57a47cffc098d24a2694db03b7853d414fdb6ecfd970efff4cb017f9160a06b8",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BeastieConceptsKeyArt": {
+    "source_sha256": "2379344369fd56c0d969c6f347a9d4383ee1da2a1a68803ccf7c1bf977f63524",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BeastieConcepts": {
+    "source_sha256": "7c9acbdd678ea3b1db8edbf99d802d1972951c1d7185a10b1422150acd64151a",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_AssistantDesigner": {
+    "source_sha256": "f6069de08293f96808abb7c2a2f77bfe8d3178d405c8ee9a67e0110489edf671",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_AdditionalProgramming": {
+    "source_sha256": "29a849f498ab57eaf3c6c248bb07e175fae4473dce83a2943983ad916158519e",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_SocialMediaCommunity": {
+    "source_sha256": "7f2c0b337785b481e6f8599ff39b427025c99eaa0fa4977af50a1cec2710041f",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_WithhelpfromourfriendsatKleiPublishing": {
+    "source_sha256": "b82a55fc6e2526960a44749d49d57887ca5d459ab7a57fcc6989707998d3479a",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_ServerProgramming": {
+    "source_sha256": "8553728ffb60a2a3dd83db8ef3ec18aa3ca0439a8ed64dcf66b0d09af7fbcdeb",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BGIllustrations": {
+    "source_sha256": "0d5b037203f1f57a65e4eaac6220362fa2ae53599e75cc70790f5e97de7d1abf",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_AdditionalTools": {
+    "source_sha256": "d1fae2063debbe30214630254b10fae51b5e80d4fe1bb217fc698f154687b6c8",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_CharacterandBeastievoices": {
+    "source_sha256": "bb78af5ae160ee9ea04f2f9e0355965bd3ea20a395baec6c761cd476f4621afd",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_DemoQATesting": {
+    "source_sha256": "90ca5d26c8c158f528eeae9b84b3ba23ed5d9dbc7eb21b247f938b0d1536d4a1",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_TestingandFeedback": {
+    "source_sha256": "09467b85d84c0a90e1aaab0e545a00e1ec01c6c24c1e34f148ee2337f32fec43",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_ThankyoutoourKickstarterbackers": {
+    "source_sha256": "f1c78610c5946686b40938b4175bfb5b053f61719f06bfde85c7565a3b3e50b3",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_Creditsmedleybypluswav": {
+    "source_sha256": "2b844a8843928ecab4c68e194902495fa00a836d1942880e6cb7470db18c803a",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_Thanks": {
+    "source_sha256": "bb47b8ff5f623996f8f46b80933095a90e29a5bb4442ac09498c9e9e8fc1cbf4",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_Thisgamewasmadeontheuncededterritories": {
+    "source_sha256": "f047873b91bd80130303efe9fb57dbc563fdc29c90914fa6be15ccb51b39db76",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_oftheSquamishTsleil-WaututhandMusqueam": {
+    "source_sha256": "00f4a3d7c0be998318c08ce824b40b008a12445dfeaee2bf9319646a730c9e4e",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_Nations.Weacknowledgeandthankthem": {
+    "source_sha256": "a493934ecc302dcab737acc7ddcd63e16e888f6d9bacb7740054eab944cf99e5",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_forcaringfortheselandsandwaters": {
+    "source_sha256": "ba3ec3bf83d8d1cca0baf70c4fafe81b3f140da798ec4ec3cf2a7305c5f8b243",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_sincebeforeourtime.": {
+    "source_sha256": "dfc76e676406e7b7c4b20d4607220a77531d94649f7eb01fe8b22bccf8048d12",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_THNX4PLAYIN": {
+    "source_sha256": "6a043815e3278114f08bea67f6319ecfd2dbe16e5e119c3a0934a150cb4ce127",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "wordssetup_004": {
+    "source_sha256": "08927948f62aa745f94d13e8b1176c924545b94bf6aee8bbee4d62ad9c7a715d",
+    "reason": "Original numeric, format, or gender-selection marker; translated team templates are separate records."
+  },
+  "credits_AnimationCoordination": {
+    "source_sha256": "1e51a7c8c2df4db36c1c0558acc325fcc22cd3a7de3f7d519e0c4870c89fde7c",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "gamepadtostring_002": {
+    "source_sha256": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_003": {
+    "source_sha256": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_004": {
+    "source_sha256": "4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_006": {
+    "source_sha256": "559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_007": {
+    "source_sha256": "df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_010": {
+    "source_sha256": "4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_011": {
+    "source_sha256": "18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_014": {
+    "source_sha256": "18f5384d58bcb1bba0bcd9e6a6781d1a6ac2cc280c330ecbab6cb7931b721552",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_015": {
+    "source_sha256": "4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_030": {
+    "source_sha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_034": {
+    "source_sha256": "a318c24216defe206feeb73ef5be00033fa9c4a74d0b967f6532a26ca5906d3b",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_037": {
+    "source_sha256": "72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_038": {
+    "source_sha256": "cc0d5c1ee98375f2c81d3bc49f88e70cbfb81eb8f6c97864e44b0b74d08f09fd",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_041": {
+    "source_sha256": "8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_042": {
+    "source_sha256": "eac8a36c12c94b93e22928c1174372d15dca00a5724481788a7a0a901e065338",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_045": {
+    "source_sha256": "004374e9564b253d09b9d628a697f2c8e6ec5b01cfd237fd20bb242078baf915",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_046": {
+    "source_sha256": "61835352dfbbfbfae4345655fc7451e580272b28a4aa3377fe008701ac7ebf34",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_049": {
+    "source_sha256": "4a0bed9babebe4eb417d611ababf6cb6c699026486d64f6d48849557fdae5b82",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_050": {
+    "source_sha256": "3165be96f5833ae07a93e8baa073df6bae2dc719814af10288f844d637d8721a",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "gamepadtostring_066": {
+    "source_sha256": "2980e2db798b2fe57595fb1e5753ae27d1dae6aaa706f57539419fd63fda5b6e",
+    "reason": "Printed key/controller identity or fallback control marker; retain original binding label."
+  },
+  "credits_Fonthelp": {
+    "source_sha256": "50aa9dd64db548932b75d90760025c5347f1198ba261c008a67bb1e4a6e0940b",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_AdditionalArt": {
+    "source_sha256": "22afb4e2edbc2813287f78dbdee6e146fe0ec88d0c58b568aab12a555bf8f1d3",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_QA": {
+    "source_sha256": "48947c06d09a212ca1dcfbdf5a63d18dde8c964dbc66eea033a363eee856de21",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_ArtGeneralist": {
+    "source_sha256": "561ae94dd7223b1e6ce03670829afc53e00170a64965cd450d66a54ca4c3f603",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "moneytostring_001": {
+    "source_sha256": "2c9a3e3f5999e3f5484f8b1d2d81ed074c88860cd8f869da27333f55d16ae13c",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "moneytostring_002": {
+    "source_sha256": "876fec6974a4bf9c51f8bf3aaa0cfb667881d4e97d185bc1a91bcd14bed6f270",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "wordssetup_005": {
+    "source_sha256": "fb11a94127a3d8c2ee160980a30698e88da4d4b8821e9d6b3b5be73d8ff48640",
+    "reason": "Original numeric, format, or gender-selection marker; translated team templates are separate records."
+  },
+  "wordssetup_006": {
+    "source_sha256": "e3eebb9cbb21b92eaffcf8faf408795f57b313b14a32b4dda25eb3552851a042",
+    "reason": "Original numeric, format, or gender-selection marker; translated team templates are separate records."
+  },
+  "wordssetup_007": {
+    "source_sha256": "eac254582d1021add5743e1d0d70e3f156109c792bcce4b8d411f8741411e4bd",
+    "reason": "Original numeric, format, or gender-selection marker; translated team templates are separate records."
+  },
+  "credits_ChineseLocalization": {
+    "source_sha256": "77cd49e435b41a186c62d1acf3188754f91b59545b9178aade8c4d68544ee384",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_RussianLocalization": {
+    "source_sha256": "3869bb7f5ea2267401c673587f0c304947dc07392d02c1bb3755683a7ce92884",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_SpanishLocalization": {
+    "source_sha256": "52cfee637ac9db48fcf701924276d6e2f80a6e03e75039a139a0af5b90915406",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_PortuguesLocalization": {
+    "source_sha256": "2ba83304c939f9da8e5ca40accb26aef39c899c7194d7a183a4f31786b2289dd",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_FrenchLocalization": {
+    "source_sha256": "3d9cf07fb9a8dfcc4d93501eea881209c44c9bbb4752f4d41063e03110d5455f",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_GermanLocalization": {
+    "source_sha256": "3752d16106a590c69b1ff17eceb46d654e18647e9e909134de47663fabce0fab",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_ItalianLocalization": {
+    "source_sha256": "c9e2fa721a9b311e4f90de0a90e2032a02dc175f50c4f3425e10840e77e53ad8",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "Phonequest_Other13Say_001": {
+    "source_sha256": "576dbfcbc33bca0c4fa7a83066818f693274d7a2835e44ef7e2b5b24399b865d",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "Phonequest_Other10_001": {
+    "source_sha256": "b87a451bc4289f9baead71e68021829a777ce2de086ba356f4424b2514afd698",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "credits_StudentIntern": {
+    "source_sha256": "036491d96711259faec768313a53f404af45694aa4ca798774369221084240be",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "drawroguelikeui_scribble_001": {
+    "source_sha256": "bf00a8e2f2619cbd5258b7106a23341843c2102458b8270c92677e9ac1636532",
+    "reason": "Only original formatting, variable substitutions, icons, punctuation, or a placeholder display marker; no prose to translate."
+  },
+  "credits_AdditionalAnimation": {
+    "source_sha256": "b515e88fa1a4008d6fac7a20bf3a0b3841a1df690fb5c1ce816111281c8c118a",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_DrumperformanceinVS.SilentWarriors": {
+    "source_sha256": "83b2b622570f956a9cbf22849bd977a0bfb2ac762bd31a34041ad19fd9a14bea",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "credits_BassperformanceinVS.SilentWarrior": {
+    "source_sha256": "163454465b0e6ed393634bf3faf9dbc2ffad222b4e969fee7d5d59b180fc80a1",
+    "reason": "English developer credits retained at the user’s explicit request."
+  },
+  "fieldeffectstuff_006": {
+    "source_sha256": "fa1e7180cf6c8ea611aeffecae3ff04d94f9558bbd8f2c69960ac883c1f31595",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "menussetup_040": {
+    "source_sha256": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "menussetup_063": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "menussetup_dexfield_008": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "menussetup_094": {
+    "source_sha256": "aa30a9e063270cbe5483d71fcc8726880e9cfa9904ab99a0db46a4158de78c6d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Gameplay_Draw64_004": {
+    "source_sha256": "9fd0fe00d9cf924ade4a40c2d1f629d72633a04ce596d8c41a7d12a274a2d366",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Gameplay_Draw64_007": {
+    "source_sha256": "9fd0fe00d9cf924ade4a40c2d1f629d72633a04ce596d8c41a7d12a274a2d366",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "gameplayuiselection_006": {
+    "source_sha256": "9fd0fe00d9cf924ade4a40c2d1f629d72633a04ce596d8c41a7d12a274a2d366",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "moveattackresolve_CharEffect_005": {
+    "source_sha256": "61d24e75cf42a9aa6f533e8366325614261a150007bd0f042ae857ef0133f595",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "moveattackresolve_CharEffect_006": {
+    "source_sha256": "40b6f842217152c8b2a51230b5495814b3ffa952b76b67b393cdf17180b5aeb7",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "classbeastiesport_CharEffect_003": {
+    "source_sha256": "5b7ff085c766a710383213f15b0e1151f83ab9024ff3d4f50dac7e342281d53d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "classbeastiesport_CharEffect_004": {
+    "source_sha256": "b87a451bc4289f9baead71e68021829a777ce2de086ba356f4424b2514afd698",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "classbeastiesport_CharEffect_005": {
+    "source_sha256": "ca1ff4fbb444255e2a9ef0e5b80e966167af07a6b9f8c8deb2e6bdce07e1128f",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Tutorial_Create0_004": {
+    "source_sha256": "94b36eb92949266625e44a0eee34a87f0c86d7e4b8b9af69ac50137c350ed4ab",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_005": {
+    "source_sha256": "be1b272802c27f773f464c162c670a4c405044740dc3cd521b1aa8a4be3d4d7e",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_006": {
+    "source_sha256": "d24ec8f6b39e9a08b8a8073aebe1c685c792535854871e49404e774426b8b11f",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_007": {
+    "source_sha256": "8ed9578c56ece984ce0dc2e178c9abeb14b62fdee04c8363000570473ad7a302",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_008": {
+    "source_sha256": "ed1a580c7f3cb474e8a0927158a3b2e65adc3ca400342cfb8d30675c666aee06",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_009": {
+    "source_sha256": "dd81eb5a9376e1dfd3ceabd5ffb07d34e0839221765439d171c495267a88f988",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_010": {
+    "source_sha256": "e34430bdf14aa3dc444fb7054ccde60500fb9b602970f1bf67f0f468c22e6d89",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_011": {
+    "source_sha256": "5399437615e23e5baa38e93577a2d9cbd7b77598e43e2444b76a8d34353c6fca",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "Tutorial_Create0_012": {
+    "source_sha256": "6adc9da100f1ddb43df53ae09b5d8074a8104d2d88cae36f7acf5aad05e8712c",
+    "reason": "English opening developer credits retained at the user’s explicit request."
+  },
+  "act03reddintro_Other11Say_007": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "reddshopchat_Other14Say_018": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "act08reddboss_Other11Say_001": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "postgamehometownraaymond_Other11Say_001": {
+    "source_sha256": "d09118151698155f794b2dc6407efc8624ab7ad41045b62947bcc5f897168115",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Riley_Other11Say_351": {
+    "source_sha256": "895361ffbf88d5a8c40d47f8dd3d03df2042ca9360d08738bcbb4faa39495404",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Riley_Other11Say_358": {
+    "source_sha256": "c26a7acaf4314a6b2b5f03fb54b101ce484bbfea3457caf3269925f62cc1ff3b",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Riley_Other11Say_366": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Kaz_Other11Say_006": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Riven_Other10Say_001": {
+    "source_sha256": "075d4424b1cd2787a54151b87eaa82b9aa298dc43166b0955ac4b2e0e8283d6f",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "rivenignore_Other11Say_001": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Science_Other11Say_103": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Club_Other10Say_044": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Club_Other10Say_123": {
+    "source_sha256": "d65490bc53e0736d0be8e081ba31e97f554e1855ea53247af449df662ff780ec",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Celeb_Other11Say_014": {
+    "source_sha256": "d65490bc53e0736d0be8e081ba31e97f554e1855ea53247af449df662ff780ec",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Weaver_Other11Say_028": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Pirate_Other11Say_012": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Streamer_Other11Say_010": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Streamer_Other11Say_047": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Streamer_Other11Say_078": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Streamer_Other11Say_116": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Ballman_Other11Say_009": {
+    "source_sha256": "c28592516401cb67aa9e011ab27aa32365b1c08869518851fbbc3f1dbdd00883",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Ballman_Other11Say_010": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Ballman_Other11Say_017": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Witchinstructor_Other14Say_002": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "sportbossend_Say_083": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "sportbossend_Say_100": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "phonecallscenes_Say_031": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Cycle_Other11Say_049": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Mask_Other11Say_112": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Mask_Other11Say_113": {
+    "source_sha256": "e56aa46ece5044e03d063ff81567895d2a0cb3d8bedf3f9445d86ef57f087175",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Mask_Other11Say_115": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "maskfinalboss_Other11Say_001": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Mask_Other13Say_001": {
+    "source_sha256": "d6576d66e7cfc1d4c501e0cc6aadad8135338b476d158fb32e7eeaa321e51e02",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "seriesmatchend_Say_008": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Valerie_Other11Say_221": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Valerie_Other11Say_261": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "socialssetup_Say_001": {
+    "source_sha256": "d12f8aead17a9fbd925413f34758eb686ea471f464c1067bf4db213acf0f67b6",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "socialssetup_Say_078": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "socialssetup_Say_080": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "socialssetup_Say_139": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Mall_Other10Say_010": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Naveen_Other11Say_035": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Zipstation_Other10Say_060": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Zipstation_Other10Say_090": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_012": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_013": {
+    "source_sha256": "bb7208bc9b5d7c04f1236a82a0093a5e33f40423d5ba8d4266f7092c3ba43b62",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_179": {
+    "source_sha256": "7a77dec6ccea995eddff86fad0769b88ab10898b2893887ceb47e7d8f1db8d38",
+    "reason": "Original chat emoticon, not an English sentence."
+  },
+  "chatsetup_198": {
+    "source_sha256": "e84c538e7fe250730ef62de220c40dfa808d3008c0cdb437181564b88b8714b8",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_251": {
+    "source_sha256": "5b7ff085c766a710383213f15b0e1151f83ab9024ff3d4f50dac7e342281d53d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_265": {
+    "source_sha256": "5b7ff085c766a710383213f15b0e1151f83ab9024ff3d4f50dac7e342281d53d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_306": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "chatsetup_342": {
+    "source_sha256": "e84c538e7fe250730ef62de220c40dfa808d3008c0cdb437181564b88b8714b8",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Diner_Other15Ask_007": {
+    "source_sha256": "0d315c8de0ab5d1fa90436074bfbd5034f04a541a09743729746ac71d5ee1d9c",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Diner_Other15Say_057": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Headmaster_Other11Ask_014": {
+    "source_sha256": "102e9915b15d3a58c81dbd7c937add9950e69ecd7deebaa3538325a7664d7b26",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Say_045": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Riven_Other11Say_264": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Game_Create0Ask_187": {
+    "source_sha256": "b87a451bc4289f9baead71e68021829a777ce2de086ba356f4424b2514afd698",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Say_197": {
+    "source_sha256": "822407ad280e87a774cb193757e8b30a20d74725003740b23c36b669e25a085d",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Ask_028": {
+    "source_sha256": "ee990668345c5d06db68e555223ab4d85369ed298c68a75e2eb00ea41bb16b3c",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Say_261": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Say_263": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "Warrior_Other11Say_275": {
+    "source_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "tyieldtostring_003": {
+    "source_sha256": "d73cf5900c29010795f76993217903cd184449e72b1970fad7db329db0605527",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  },
+  "menussetup_334": {
+    "source_sha256": "5be320aaffc591570f458aa72154b6eb60a8300892559820172cbb9f2902e2b3",
+    "reason": "Original variables, icons, pause/choice codes and punctuation only; this was previously authored identically and is now honestly counted as preserved."
+  }
+}

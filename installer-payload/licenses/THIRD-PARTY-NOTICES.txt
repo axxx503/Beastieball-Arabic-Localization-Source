@@ -1,0 +1,22 @@
+Beastieball Arabic Localization — third-party notices
+
+Academia Friendly Regular: original centerline font design for v7dt / axxx503.
+No third-party font outlines. Existing selected TTF is included unmodified.
+No new font was created for this release. Saudi is inactive and not distributed.
+
+Xdelta3 3.2.1, Joshua MacDonald: Apache 2.0.
+https://github.com/jmacd/xdelta/tree/v3.2.1
+Official binary README identifies static liblzma and BLAKE3 dependencies.
+The tagged CMake defaults pin XZ/liblzma v5.8.3 (XZ authors/contributors,
+0BSD) and BLAKE3 1.8.5 (BLAKE3 team/contributors, Apache 2.0 option).
+https://github.com/jmacd/xdelta/blob/v3.2.1/xdelta3/CMakeLists.txt
+https://github.com/tukaani-project/xz/blob/v5.8.3/COPYING
+https://github.com/BLAKE3-team/BLAKE3/blob/1.8.5/LICENSE_A2
+Included license texts cover these redistributed components.
+
+Scribble is part of the user's original game; no Scribble source is included.
+Windows Uniscribe/.NET are system dependencies and are not redistributed.
+UndertaleModLib, Python, Node, fontTools, compilers and other analysis tools
+are build-time dependencies, not runtime downloads required by players.
+No complete original game executable, data.win, sprite atlas or original
+English language table is distributed. The game belongs to its owners.

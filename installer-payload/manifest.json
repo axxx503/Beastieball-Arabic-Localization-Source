@@ -1,0 +1,54 @@
+{
+  "Version": "0.1.5-All-in-One-Beta",
+  "English": "e1b4736a743de3d8ca540ee64f54baf2158a7621c92c121aef6187e16d5fede4",
+  "Files": [
+    {
+      "Path": "beastieball.exe",
+      "Patch": "0.xdelta",
+      "Original": "ef8295592bfe1541bdea70097518c5e38e96516527a5ee5f6843debbdcce29d5",
+      "Target": "fd3b3ca80773c919582dd6bc8d52a61add820e76380c66c898cf43a200ce3dea"
+    },
+    {
+      "Path": "data.win",
+      "Patch": "1.xdelta",
+      "Original": "9c7fcf80ff4030bdeb948c6cfa305d2bfb9eb82860b6b6fcae97b4b88ce03ca0",
+      "Target": "176669153226d0d40bddd6f079fb904ea15cc0c229d74791f9cd4e88b9102fb2"
+    },
+    {
+      "Path": "loc/Русский.csv",
+      "Patch": "2.xdelta",
+      "Original": "9b797d970466a2180895008ff3e5869327db64d2f4a8ce6b2c4525f8ea9ee3b9",
+      "Target": "56efc6585c411a3b1b978c5e7c760cd7506f212d25d2d3843e7fcfb5a1cba951"
+    },
+    {
+      "Path": "ftText.yy",
+      "Patch": "3.xdelta",
+      "Original": "a6d2f17f7bdab0e377bf9e97086705fbd013fb20da0c9fe65c8c01c1d7083555",
+      "Target": "3773886b0fe143b74d339fbf18ddea8953563f859f143c3b588cb6bc60bfa869"
+    },
+    {
+      "Path": "ftBold.yy",
+      "Patch": "4.xdelta",
+      "Original": "a5d916b24b6e58e47442b9eda1ebfaaa0836a016e9b9c18090448df494d8c516",
+      "Target": "3ed38ba6972ca992da87b8ea7d1dc13aaa25a26147cbe145d7ceb59eee21aeb1"
+    },
+    {
+      "Path": "ftUI.yy",
+      "Patch": "5.xdelta",
+      "Original": "7e24db70f5dc7d2928c196bdb59a417f816480ac6c4499de67756f9e770c4781",
+      "Target": "9c84fe8dfd24e5e5c41d63437dba9cf8d2800552f9ece800662c852b37f1c860"
+    },
+    {
+      "Path": "ftSport.yy",
+      "Patch": "6.xdelta",
+      "Original": "9f23e32496589bdbe70f3e7b1f33775a16a85b15c01f82a84dca9994f6dcc5e2",
+      "Target": "49c086aeb29fe935547dc0ac071ef4cb94bb308a56d648c3a1539e47a87db2f6"
+    },
+    {
+      "Path": "ftEditor.yy",
+      "Patch": "7.xdelta",
+      "Original": "3d5b0ee5d95d4e7307739927b06fdc48dad6789d9a955025514a52bdcdb38bf4",
+      "Target": "f6aaeea6f1eff0fa6c68732e2e7abc15bd73a572037d35b611e92c2b25bb9b29"
+    }
+  ]
+}

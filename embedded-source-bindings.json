@@ -1,0 +1,3271 @@
+{
+  "game_data_sha256": "9c7fcf80ff4030bdeb948c6cfa305d2bfb9eb82860b6b6fcae97b4b88ce03ca0",
+  "scope": "First audited source-string ranges, not an exhaustive embedded text inventory",
+  "rows": [
+    {
+      "id": "STRG_03330",
+      "index": 3330,
+      "source_sha256": "4f6fb5f8a55aa2787a0c611e0a730ba98368ae660a03d5ab302af9f1563c54a1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03333",
+      "index": 3333,
+      "source_sha256": "9de730b93acec5bc383074871d3cb3c236abde226b871705a904bc37039c6d1d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03337",
+      "index": 3337,
+      "source_sha256": "757efeded6428bc4c86cacd0d4001aae4372b30f440f2acfb72945f0ee0d18c3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03340",
+      "index": 3340,
+      "source_sha256": "ee661b8b199ce73bf34d321bd1084b342e6cd936e27999613740af75fdb6a792",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03343",
+      "index": 3343,
+      "source_sha256": "79952856ffa6a401b03bd77b8893db7a368da95e94a3d585f3c60c00cb47865d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03344",
+      "index": 3344,
+      "source_sha256": "96b7aeaa3d268f0bd5dfd6b170301b6c0926ac063ba8d256ebf7fdb2bc96af94",
+      "status": "preserve",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified",
+      "preservation_reason": "Internal creature design note; reachability and code use unverified"
+    },
+    {
+      "id": "STRG_03345",
+      "index": 3345,
+      "source_sha256": "f8ffa53a77bf8770eafc62fd2622250eeeeb611ab86dc2ac74ec45a8299e726f",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03347",
+      "index": 3347,
+      "source_sha256": "9623fada74020cbd4d21edf5fcffc36959277955709f9b6ca8062d2cdae333f0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03348",
+      "index": 3348,
+      "source_sha256": "763cdc88de95c62063f37cf723e4b62a803f2639500b3a10e33e9d10aa18251d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03349",
+      "index": 3349,
+      "source_sha256": "77dbfe43e1841a17e5010413a9a2cd7b5576d4812465c149a2df5f5e1f8cfa29",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03351",
+      "index": 3351,
+      "source_sha256": "c593f8ce6e54b36e2b2ca598def57e483b75f4d814e53212d1db766b620b01b2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03352",
+      "index": 3352,
+      "source_sha256": "b98b5a2e750e4045fbb4a8417108d7d49a3fc56536c89af551e04cf6234fbd74",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03360",
+      "index": 3360,
+      "source_sha256": "70616a46ba3286e30653210d718fe38f2e242c27023843105bcb2349bd583cac",
+      "status": "preserve",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified",
+      "preservation_reason": "Internal creature design note; reachability and code use unverified"
+    },
+    {
+      "id": "STRG_03363",
+      "index": 3363,
+      "source_sha256": "c1ea9621ce712ca8ed4da5abbac9d0168c2dca40669a36d9266ee0f0fa2661ae",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03364",
+      "index": 3364,
+      "source_sha256": "a40302c4fe636eaa3672689d782f779d43a9ffd8b396596013612fc83faf63e9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03366",
+      "index": 3366,
+      "source_sha256": "2afe28366f5d1b560647707fd82dac8de0a97833e9381273a53b55b4a486fd88",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03369",
+      "index": 3369,
+      "source_sha256": "3f1a974dfa04637039ff4ec327eac3e4e7fbb778d94f3be52e3de0ed7fb53af5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03370",
+      "index": 3370,
+      "source_sha256": "91bf207aaca8aa501b1ef0900352aa86f77b9dd34ab1d0a6b093761556cadbb4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03372",
+      "index": 3372,
+      "source_sha256": "a0db37b308b0de4ec748e29e6cae0cde99bdfaf34488b4209edeb7a6272ef5d5",
+      "status": "preserve",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified",
+      "preservation_reason": "Internal creature design note; reachability and code use unverified"
+    },
+    {
+      "id": "STRG_03374",
+      "index": 3374,
+      "source_sha256": "124eff5ff7cbbeefa60ca7a26dae0188234dd1d5522abbb7872e16c9c6512a10",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03375",
+      "index": 3375,
+      "source_sha256": "e148268ff3adec2bf41e9d9a0bcd02bcbf5a6e16977dff388ed72ab8fd360622",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03376",
+      "index": 3376,
+      "source_sha256": "989b44c3673746e37b26b418a6a798c47aa0290a44a88b748b0421adc1589b4b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03394",
+      "index": 3394,
+      "source_sha256": "e563d383a647552d9008c8d8d1d76bf10f3431865aaf8add242468c3d34325ad",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_03395",
+      "index": 3395,
+      "source_sha256": "af2e4a3aa568f142345cb5e1bb7a319611c6289e56d0eb840f35271888106f34",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_08136",
+      "index": 8136,
+      "source_sha256": "7a7e5a3b9b8195559f562fc5e4357545939ba2e556ce645dcf93bb6f3658be0a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_09039",
+      "index": 9039,
+      "source_sha256": "b91d0a9742ece55b5b17844df62886ed60d972a93455d26590e4570125d72a63",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13723",
+      "index": 13723,
+      "source_sha256": "131ecf3dc2c5aeda1fae0819b82c4f32d9ffe6a1a3c27946bfde83e5c971b351",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13724",
+      "index": 13724,
+      "source_sha256": "950e5f8f04a86c0d0460bf94914d20ae46ccb3beb02fc8a1cf734b88a8617988",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13725",
+      "index": 13725,
+      "source_sha256": "495cab6cc1b6061a6afe755bdb3d2b9391100ca6ef2d8befcd7685902f009055",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13726",
+      "index": 13726,
+      "source_sha256": "3e9da50d475841890dc722dec594c21943511f14c7778fcf81e50f68b472c623",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13727",
+      "index": 13727,
+      "source_sha256": "1380f0ad20be7566350d1b86744bca9ed949b9b745181f8a4356f3e2e1bdf117",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13728",
+      "index": 13728,
+      "source_sha256": "23602ad84c6773bd31690e9eca0076ec68c2fbc1fc962601f2a8d10f164a4fa5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13729",
+      "index": 13729,
+      "source_sha256": "8a6be1e1ac34f3d9a4d1b0eda2a7c9c3831a199dc36ea05fa4b11c2ac2a7a167",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13730",
+      "index": 13730,
+      "source_sha256": "e3a81008f311f160c243686543c19de155188c95e5f9eb0d66e2dc8b72f532ef",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13731",
+      "index": 13731,
+      "source_sha256": "53ddea065f42ffa379567899c2d9235ab0e40a3b0bceb8a83f19428659306554",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13732",
+      "index": 13732,
+      "source_sha256": "50c92ecb9eac47e10a6a49d9e44f3bb58ae1b248db36523cf995f5ec49091a89",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13733",
+      "index": 13733,
+      "source_sha256": "d52078e38cf488ed58d5743c6782639eacbe7ad287781fc6870751c012785f54",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13734",
+      "index": 13734,
+      "source_sha256": "a9812ddd814434acf3aefe1a653ab8d3cb91ce792d55c0d87e66b97bdd158537",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13735",
+      "index": 13735,
+      "source_sha256": "b449f43d1711acc7b2c7e5497fa750b4673ac4193a7a07e0bc8f4180be3ec3a8",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13736",
+      "index": 13736,
+      "source_sha256": "3da8fddd55fc9741949e820e62ca55c32301779310264bef2d0a3ed8e362c01f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13737",
+      "index": 13737,
+      "source_sha256": "67a38550a09f93ad2d536721174807d4a9fcc9ae608e26ff97d91960b7692778",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13738",
+      "index": 13738,
+      "source_sha256": "a16191af3edba25c789d4e251c89d4390cd3ad82ab0c481cde1c102d1ec51338",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13739",
+      "index": 13739,
+      "source_sha256": "fb370bf972f54d5384aa27fc5e8a3dc04141f802fc5d962b43c4fe2208ec4fc5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13740",
+      "index": 13740,
+      "source_sha256": "6940c2089284ff177cd7741c35c1e321ce6330f5292f23a00588a2f51fed3969",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13741",
+      "index": 13741,
+      "source_sha256": "5cb718ae8b2c07e96c151cabf313a4971b18f52cde340fc2a0eb2be571755b12",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13743",
+      "index": 13743,
+      "source_sha256": "e60478b9ad066e1235419b11bb008026dfb5ecf0fec974d18ab790f4fe55451f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13744",
+      "index": 13744,
+      "source_sha256": "36ee6fa136a9fc38b5376588f3c99a7af4ff4d75790c2954d48dd2a42f430dcf",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13745",
+      "index": 13745,
+      "source_sha256": "22afdb1df8d4c0e1e4b777efe9c909486d838e7e826a07bdf177ccf25c82d8de",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13746",
+      "index": 13746,
+      "source_sha256": "827518d0c6b6b3dfff51ce8a0ee67a422763ea08500e5158c091a93ec50579e0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13747",
+      "index": 13747,
+      "source_sha256": "757f58e9bab5815e8a3859d56272bcba5ab8c25505ec391889839a9508edb491",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_13844",
+      "index": 13844,
+      "source_sha256": "f000efd3c86e040314c14dacefe55bae23c901d847afbae1691fadae9f6e371e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_15671",
+      "index": 15671,
+      "source_sha256": "2c788c19079bf27711a1e2be4b9a6f33d5af8ed07bb45c9903021d0189a11842",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_15672",
+      "index": 15672,
+      "source_sha256": "350806263d16237864ed2e9abdb407e40d5dc8e797f503f79fc04c5df334cc57",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_15673",
+      "index": 15673,
+      "source_sha256": "c8871265b49e54ba2872d136b329677cb0dad40b6c5f9d4f5a20d16115d68f23",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_15727",
+      "index": 15727,
+      "source_sha256": "39e22a7d7ccc3bacad6dbc4ed64237857c1d73e9aa4ee22c5a0e52cab05b7c92",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19282",
+      "index": 19282,
+      "source_sha256": "f023bd6065c8d81259219d5c375e14f14037abf685ea2efefadd6e9a0d85a0fb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19283",
+      "index": 19283,
+      "source_sha256": "553d73cf70b383eeb27fc76eb0618b03129d5067ddbaa5fc6d1ff3d28337ccb4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19284",
+      "index": 19284,
+      "source_sha256": "801cb83c8d16283c2a0da67181422ac12530eabb66de9ac6bf31d7e892dd2523",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19285",
+      "index": 19285,
+      "source_sha256": "576743ac92a08d5befef8b7e66cbed13f8d663eda32056264e9e83b92c5484f1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19286",
+      "index": 19286,
+      "source_sha256": "f04735ebac323c2a34b8ebfaa32d201bc7fa160e46962d917202bbd65aba27bc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19287",
+      "index": 19287,
+      "source_sha256": "4c21944dd977f86fd992f1ac340ad35f26e9eb8c1be78e29ac1e845f326a79fa",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19288",
+      "index": 19288,
+      "source_sha256": "86c3f4d2394d2446dbc87f9155c25c9d6b0ebff473a7d4297d3a2aa3af1006e1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19289",
+      "index": 19289,
+      "source_sha256": "62389b76eb2548f240c9a9f59b804b12af70ffb74e21a90d92fd1ca32176eefb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19290",
+      "index": 19290,
+      "source_sha256": "358185216b6d1ebff97a53be955e867b735f295d19751d94e973a3da2d700bb5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19291",
+      "index": 19291,
+      "source_sha256": "32b391934ffd99fb84eac2aefa0fc1fffb8720c22bf2d68e2b70b59c4ba2bd7b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19292",
+      "index": 19292,
+      "source_sha256": "d928c145fcedf25e719501365c81da2bed97217a85a7301b53f2ca6d9db56020",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19293",
+      "index": 19293,
+      "source_sha256": "c7fbf44b5774cb54fecd31b993e22d55a56386a5e0d28125114cd87f57e43ec7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19294",
+      "index": 19294,
+      "source_sha256": "fb2d9b27865a35bb8a84a48182ec74df808fd88cda0e664dc5a20bc8c3036dfe",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19295",
+      "index": 19295,
+      "source_sha256": "bf7d3d4d0e830122ee0f3893cdcd2aca2b8fa7b4c0ae44737d66bf723d954a4a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19296",
+      "index": 19296,
+      "source_sha256": "e0634998233a42a1d533ec8e2e774fa6b201d55357bfab2ec79ab145a507b6d2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19297",
+      "index": 19297,
+      "source_sha256": "96b78184b5949850b1831bb3964b11aff8d2106e70417b0243dfc98c37a987b1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19298",
+      "index": 19298,
+      "source_sha256": "26f9d12e465b9ae5020798b7cceb532ce4cc2e904441327064abf7b3d7dcfffc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19299",
+      "index": 19299,
+      "source_sha256": "243c1070d76dc9b035924b9d45a5380a66a21104e74ff577e48ac576e7be049b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19300",
+      "index": 19300,
+      "source_sha256": "5f1701b7c8675156971366e8ec1180537c5bb7bfe24ee9977b26f2f256ff6373",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19301",
+      "index": 19301,
+      "source_sha256": "a752c3ac1c8cb5ccb11904cd553ee2408dc0b854e3cc3d93b1c76a096c7ac5a5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19302",
+      "index": 19302,
+      "source_sha256": "6407d872585e94c82b9435ae6d7951aff6bbeacddf504766d872c941a774239f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19303",
+      "index": 19303,
+      "source_sha256": "105fb2c9f0443135dad83db4a3838c00b06b505e5711312cc123a8ed700f33ba",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19304",
+      "index": 19304,
+      "source_sha256": "23a013b2eccfca81a361a9630f977448a1288265905958693cbd83d19db263d9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19305",
+      "index": 19305,
+      "source_sha256": "c5b2fb9666e0804aeed4d94b9c5e4b8774577194bc341b970494bf09be2faf48",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19306",
+      "index": 19306,
+      "source_sha256": "d16449ab9d88b3dfdc71502d18d4fca2365892cc3b3c017d346f71c57f6f8ec6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19307",
+      "index": 19307,
+      "source_sha256": "8d5f8fabcf0660a75b6f58779b9d09d27d261976247bed53ca69f88ac98482ec",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19308",
+      "index": 19308,
+      "source_sha256": "2bacf597b5110ee1dbf990872b2686fee4a84950ebc5f42347e9a8a59aed64d3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19309",
+      "index": 19309,
+      "source_sha256": "d949092f6fbdf2a254c46840407c55d4e50e2ef4bcb0c68a02155ce2d8d3abb7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19310",
+      "index": 19310,
+      "source_sha256": "8f8a247aaf181567452e08137776331ca83722a802749599f3996b484b03a8d9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19311",
+      "index": 19311,
+      "source_sha256": "6d70f2f8ce51c0bbb877022270c01dc3df4495fe3d90bd0cecaf11b10f74f4a2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19312",
+      "index": 19312,
+      "source_sha256": "8c646bc64d09543f2af07f47d0b6c162aac9884afdc891f9a6a6976b1068462d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19313",
+      "index": 19313,
+      "source_sha256": "0ef14bdde564f0856182928bbdec18b24d469528218c60ca9403ead7536f8dfc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19314",
+      "index": 19314,
+      "source_sha256": "071f586f88c9a49de37f4ed80a5ae1b2605c1ccd14b8f03b372b36516a713afa",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19315",
+      "index": 19315,
+      "source_sha256": "a0cde5df510681c8112ce5b213f3bc8fccafb7735410754691ab57621b731a33",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19316",
+      "index": 19316,
+      "source_sha256": "d785e1ea41cdaea560096f67ffe0f15379c99ea0c65a70c1d17e173503988b78",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19327",
+      "index": 19327,
+      "source_sha256": "a16f198477b39ab73eaa74710ed5a5538a4243e8f6356468aa126bb784c64037",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19328",
+      "index": 19328,
+      "source_sha256": "939d4317758b5250f6c62881bf2bc943e3a21b98f04954b4ea899c7ff432b178",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19343",
+      "index": 19343,
+      "source_sha256": "2e39e7bbee70cf7c1b5a549f6d4400ad610fb1854abe5267b0f484d824ea7c76",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19344",
+      "index": 19344,
+      "source_sha256": "ccdd8c48b238776bfe371fa25b492c298c260c81f444061631e1eb890eaa2339",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19345",
+      "index": 19345,
+      "source_sha256": "f6afc9cac276edcd519e44adeda4db05deb32bd2a39abbc3463375fa2f0bc62a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19346",
+      "index": 19346,
+      "source_sha256": "3cf546b3fb1d100753c975937f455a0606e17613aee1b7f3eacd2188f016545f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19347",
+      "index": 19347,
+      "source_sha256": "54ef31fad235b6483adadfa77e5c982be2396890a76e26689f062495193f13e3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19348",
+      "index": 19348,
+      "source_sha256": "78867fadf2279d641b6648215026e6b03f19f1623e261e0f0e8d04607cff1f51",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19349",
+      "index": 19349,
+      "source_sha256": "bf2d26ce7cbedb2c325cd5acd77cca5e37415b5ed530bea972768a30ca179edc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19350",
+      "index": 19350,
+      "source_sha256": "7673570ff114b260b3e440703388978effe9b8ee552698606ed096bc9cdbaff1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19351",
+      "index": 19351,
+      "source_sha256": "43675003f77775be2aa784ad6bfc7928afd486bd4a30896de50119ddd0fd6870",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19352",
+      "index": 19352,
+      "source_sha256": "697b4644f56e71653a96c0c2ce393c01bb2912ffb1f7040d1dd383044786fc53",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19353",
+      "index": 19353,
+      "source_sha256": "3d1ecadc65a6a9abee7ef133d43ebd8ee0165ad48d8ad6911e5a7a8514b2d255",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19354",
+      "index": 19354,
+      "source_sha256": "ab79a2f117be5cbdce24d12797e0a3a883a8b3213306bc23c8b38dfab3be8a27",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19355",
+      "index": 19355,
+      "source_sha256": "216bcf96210439eccd8fdde24980dbe90d757bc47c273bd1f529a03389d7d18e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19356",
+      "index": 19356,
+      "source_sha256": "ebdbe7fa1a9946d660d211a80162fa9c5b4a131abc0511e05d3c019cefaa8544",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19357",
+      "index": 19357,
+      "source_sha256": "93ed20e782c5ccb82d21b19a5dc4b3ea420bc0a3ce3fba7529fa301ae43d4ca0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19358",
+      "index": 19358,
+      "source_sha256": "31ea429afcd28cbb6800d90e09d80fe7795b110af9c6b192383ef8ce21113a81",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19359",
+      "index": 19359,
+      "source_sha256": "3401d272884ae20b318fab9d61bdf18b3d7d88b83ce0aab726f00f0c99b3440a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19360",
+      "index": 19360,
+      "source_sha256": "28666b27d6d1d3e4f3a860fe64eca454a5597c179a6b50051a3d6f351651b380",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19361",
+      "index": 19361,
+      "source_sha256": "e9e33e56026717fa2eca25e27f9d5c6345d5ddfefea8df57bf295e73881c535d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19362",
+      "index": 19362,
+      "source_sha256": "91ce2d346a6c8444fde801dcf55b0cc8dcd6f8080c8ff8dc793b81306fb40b44",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19363",
+      "index": 19363,
+      "source_sha256": "dbc685754cd7847f4880cfdb20f9150e6cfc5691a9e9de1246dfcbda0269c204",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19364",
+      "index": 19364,
+      "source_sha256": "8892ba7dfebce84cc5077388771a56378f1b134f73261c304e30021ca5f68000",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19365",
+      "index": 19365,
+      "source_sha256": "79f79e58d8c9753d9f27d6645ea8037ef3b07cef25050c0c830609a82b88c54c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_19366",
+      "index": 19366,
+      "source_sha256": "8d5d8c553f1a77b00c02128cf5771eb1cdd03ec1c20eb706da66e7fbc461f6b5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_23646",
+      "index": 23646,
+      "source_sha256": "446e776e718dc37bfe186faf20e82498069185b3a70ad66837b33bbd490d1ea4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_23647",
+      "index": 23647,
+      "source_sha256": "2608a9d822c1a87053ba86e457706a89e22664485294ec0e3695bbf21ce27703",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24173",
+      "index": 24173,
+      "source_sha256": "46d90879e486f16e98660308993a3ce450b4e9d1f045ed62a7606cfb029b8576",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24174",
+      "index": 24174,
+      "source_sha256": "bf5839293961df17509e27c93e95eb1881939f78145e87fe03e559c01cd46607",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24175",
+      "index": 24175,
+      "source_sha256": "4c3e2b3edd1b2934125f247e529f3f6d60f4808bcfe7e44e9e85d2338d26d90a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24176",
+      "index": 24176,
+      "source_sha256": "632ac895621b587491138a4918b959f2ae7fbe9b88d40498d79676f6d4db4f75",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24177",
+      "index": 24177,
+      "source_sha256": "5e58b7554452bf6620a4bee2905f30cc0b34301025980dfa68edd3b4b1df3e24",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24178",
+      "index": 24178,
+      "source_sha256": "21fb41a1258f758fb496d19d17c9c160604e9e9135a1d38d7db67edbef17a786",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24179",
+      "index": 24179,
+      "source_sha256": "0f84e1c0f0a95e9f584616407293a48e1a27ce2d690e04167aa420ab80f5ed76",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24180",
+      "index": 24180,
+      "source_sha256": "13450bdf54c7a799cfe42b3c054814c18e58ad265be9a7c7acd34215210e24f7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24181",
+      "index": 24181,
+      "source_sha256": "8b8584fc35d3bd405bbd9ec7983a74bc427da745c11ba878fa1bf26d17deeae8",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24183",
+      "index": 24183,
+      "source_sha256": "39b5dc5c602363509b40ce8cbefdc3169bcb3b5c93cae1ec8977d45cb9599307",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24184",
+      "index": 24184,
+      "source_sha256": "a52fe5d57b0f7a12c0de1795abe6664532d7b109aa4bb8ef6fd904c6311af4e5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24185",
+      "index": 24185,
+      "source_sha256": "de682182214ce0c4507ce28f0ce82a66838219748c8aaeddc3d813a990c6f812",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24186",
+      "index": 24186,
+      "source_sha256": "64000d168b63aec00548e80465b67b22ccceff6bf593440efadde73dbc39bf04",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24187",
+      "index": 24187,
+      "source_sha256": "2fefe0b2f0ff93b7e5065e951436f7b4b759aa270abd4c33a8987bd4506b1d08",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24188",
+      "index": 24188,
+      "source_sha256": "c86b317534ce2f8ae7b178e1fab2369253cee34ea0ef7298d41187a5bfb905aa",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24189",
+      "index": 24189,
+      "source_sha256": "3c0f027eff7024bd325d252e5fed21d482f435b41b3f7e6603a3173a448d9000",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24190",
+      "index": 24190,
+      "source_sha256": "0d869809cc2acbbbf67a81b527414fb3e34605fdf1474b23f4d5655276de437b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24191",
+      "index": 24191,
+      "source_sha256": "07385f9581cf04431169b9adf676a331130acfce80422764ee78ac469d06bc46",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24192",
+      "index": 24192,
+      "source_sha256": "a1b1bef8673bcbbf8eded6f81616373bc27236a54b2de508d3bc5dac8463f807",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24193",
+      "index": 24193,
+      "source_sha256": "5d2e0cbb57635c25322bd752cd2659bae514bda93e39b3ae7f63d8c3a9c3842d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24194",
+      "index": 24194,
+      "source_sha256": "f9eaf55cbd96bba5d04302a74c1f40e91876e618106dfddd5e2ee178d3582a33",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24195",
+      "index": 24195,
+      "source_sha256": "8f61c30e58a5f54ae2949aa412dcfbab9deb22a5b3b398b863847156a153320a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24196",
+      "index": 24196,
+      "source_sha256": "2111282573b0b657ede2d6c7d361a1a7cba327288f7e2cb8eb6208a33d03144e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24198",
+      "index": 24198,
+      "source_sha256": "7d004c61e34b15fe288fd2fbe4739b02f0231fc1be8624633111bfb6e016e5de",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24199",
+      "index": 24199,
+      "source_sha256": "3ed0ce55b9ea4fd1d0e35b7bf65d4c2ff082b200fdaf7b86365c28455d2e27f1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24200",
+      "index": 24200,
+      "source_sha256": "5d166792a1e43e1acca73b943010569086b53a3f0e3cce08c112f8320472c219",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24201",
+      "index": 24201,
+      "source_sha256": "9204c35202a77fb57cb05328d334e12276456a9a6812bc789eeb8a393754500e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24202",
+      "index": 24202,
+      "source_sha256": "1a7e947b6a4d189daab6c516917ad5b386506b23d6dec36b1f13c331a80b4d00",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24203",
+      "index": 24203,
+      "source_sha256": "f8ebada6f01cbd5471cc0e31efaf1d2ded0eb5d9bc6ec5a18bceb14e612df6a7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24204",
+      "index": 24204,
+      "source_sha256": "c1e3cd3c87499ead513772115e075343780867218d35fbbfb6f44e8aa4792189",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24205",
+      "index": 24205,
+      "source_sha256": "a63f5033d7bef8c9e0f0cd387daf482d9e3b3df997df0e82ad37f4895820f18c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24206",
+      "index": 24206,
+      "source_sha256": "0c545ea80a6d175a670db04db92086bf0f1eb43ff1a931afb3da5e6556e4f486",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24207",
+      "index": 24207,
+      "source_sha256": "9e7dbddc84879f9a335962f4a2ec1c7358a056db47e944f11c47215608e40af1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24208",
+      "index": 24208,
+      "source_sha256": "8b895037f0df4417e5a99be7020fe1dfd419d9054a52e504a3b1deee28a77fb7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24209",
+      "index": 24209,
+      "source_sha256": "ed710a0f6957bcdc2c26ec9484f3f31592c776cbbfdbce819b713e9cb29f9051",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24211",
+      "index": 24211,
+      "source_sha256": "bc457c1e6ecfdc7f0802696444379af2b97467d9fbf0ca4ca6fd55a75a45436c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24212",
+      "index": 24212,
+      "source_sha256": "7cb7b79fe72b37f27c28dc1e1aa554a049b20bc416f6cbc4a52ec944f7828e84",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24213",
+      "index": 24213,
+      "source_sha256": "c72acee7d51664ff510f75451248eb83651bcd9a7e5ba353c29c1824777034f1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24214",
+      "index": 24214,
+      "source_sha256": "a465fe27633fc8f924dc89b5a0e823ef4001505c085432e8c7aabafbaa03e40f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24215",
+      "index": 24215,
+      "source_sha256": "5ac3e38b79d2b670544413fe59f80d482a54d9010074f64fed600f92505d99ca",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24216",
+      "index": 24216,
+      "source_sha256": "f0da54c026266b200cc0f2b7601ee7c9577aaab0a1c1feaa43976cd836a044fd",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24217",
+      "index": 24217,
+      "source_sha256": "a11ea10ba00921b6d29f78f343d987bd776684b18efa40d7c07cce747e6eca95",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24218",
+      "index": 24218,
+      "source_sha256": "7f64bd3ee77b3a7c608011f718c2c0af549671e0ff9550b4c6328aed40f4720a",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24219",
+      "index": 24219,
+      "source_sha256": "c54cbee211a25e1433eb71998057181fa2c44273dc20445a35263c86a0ca041d",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24220",
+      "index": 24220,
+      "source_sha256": "2d5212fc676dd0406689c846df1af3de7fcb40f7f900b8db528d2651055600c6",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24221",
+      "index": 24221,
+      "source_sha256": "02e34d052fc7a876390f91a6b28d9e2d83a4691b02d770540e7d11b002b5354e",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24222",
+      "index": 24222,
+      "source_sha256": "565339bc4d33d72817b583024112eb7f5cdf3e5eef0252d6ec1b9c9a94e12bb3",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24223",
+      "index": 24223,
+      "source_sha256": "538394d623014e7e6e9e7b38986e23476ea8559d94afc8dbb8039e322c620822",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24224",
+      "index": 24224,
+      "source_sha256": "42d561688ded384a8a1f2efd7e59578c5bc941d2a87d0690a450e193a81a733a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24226",
+      "index": 24226,
+      "source_sha256": "6c6bb8c3a69df69e2a1017969b30a6cdb75edf9be15fd5d5f3d60eb6885150f5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24227",
+      "index": 24227,
+      "source_sha256": "36a3bbf44a8ee3f2fc7f3d14c7535ba12a7d8a1c5a269d3651f4173b948d240a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24228",
+      "index": 24228,
+      "source_sha256": "1976e7477a26b6802bad7bcaa8915ab5ac8cd493ee46a065ae282e58ac75015d",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24229",
+      "index": 24229,
+      "source_sha256": "2331ca5f5b257b1ff308c504532d4854eb063f4b9c3b3f4bc959d514c0576aab",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24230",
+      "index": 24230,
+      "source_sha256": "8f4bff815ccbfbc482e0443c9abe762b31670c6f920e4186ca3ada88b493a31f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24234",
+      "index": 24234,
+      "source_sha256": "885226489b257136331d8f276a4b1bd86791b34a4f94c7e4c8bb5f2a77908707",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24235",
+      "index": 24235,
+      "source_sha256": "22a156dc0a23ea7b65ea945f94aa2a732a2585109a869b7f93f8a1625cd6ca40",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24236",
+      "index": 24236,
+      "source_sha256": "943955585fadb900a1482ca0b48eae8f78c9b1185ee85e29e2e145fbc29477f1",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24237",
+      "index": 24237,
+      "source_sha256": "ba2143e3ad8c80cb1ca39e613fe6b096a7a62e8dbb4d6e11a520445681c13b8a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24238",
+      "index": 24238,
+      "source_sha256": "8c87b0b2795419f04a671667c96b21a91ec351ce0aea721276948a48762e563e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24239",
+      "index": 24239,
+      "source_sha256": "f5aeaec40cc21774cb58b729c47d6aefa2244eabb3cf836e5ca01b121c41bc58",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24240",
+      "index": 24240,
+      "source_sha256": "588f6c2a0b057a755948ede4bc7bf101535d5179653eeca9fccfc7981f806318",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24715",
+      "index": 24715,
+      "source_sha256": "67f64a04fb06bc75e6ddb8e5185d7a694facda9405f3e24e275cee80b5627b03",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24716",
+      "index": 24716,
+      "source_sha256": "b3c37b27460fee0ee4f09d3057dfc10317fe3baaa9d32bcee7106e4f6fa3c3a2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24717",
+      "index": 24717,
+      "source_sha256": "d7e7517c028128247c2e8a8de782fa3ab50a87e3be537e68994caaf2e64a0a0b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24718",
+      "index": 24718,
+      "source_sha256": "8822d2526c06385fbb43d815ed94dbbef3609ffbe378ff1f6ea08cae32b52173",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24719",
+      "index": 24719,
+      "source_sha256": "97e5d57ea8bb4eb460189b5e1e2fcdece1bb2c85eb6db497c30e4665f1771336",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24723",
+      "index": 24723,
+      "source_sha256": "57670719b74446b678dc1b688277b05ee668c73b34bcd9756f92656c9a8b3b07",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24724",
+      "index": 24724,
+      "source_sha256": "5b88b3250a0f5a09f0fdb20f0eb1f113d70fffdab184840ed972942815342964",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24725",
+      "index": 24725,
+      "source_sha256": "e0e2782434d8f191d1414af3fccb490018fb72cd146a65fcd4c57d47e840b9b9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24866",
+      "index": 24866,
+      "source_sha256": "66be2f57058c19a5307968a73b9d3024598271201d563a69584f2d5de3661b94",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24867",
+      "index": 24867,
+      "source_sha256": "5a94d861468dc1a3376142b5329d5f89834b90d947e406169a51504e88aed516",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24868",
+      "index": 24868,
+      "source_sha256": "6a8471a69e49808f4b4969954f587d8a94cd2ecb88940e2d3926b8411d64eed4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24869",
+      "index": 24869,
+      "source_sha256": "dc9682b7f1f0a966b0f29a9b24b280e22bc7a81ac38394c5420860a7db781778",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24870",
+      "index": 24870,
+      "source_sha256": "d52199ca896b466e17b8e8703a9673c0f2b386fdb5ef9dbab764be96e05a801e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24871",
+      "index": 24871,
+      "source_sha256": "19af01ec2be76c05f474a4a4cbd8a9a6d58718917c50c1d875fe47b874c822b7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24872",
+      "index": 24872,
+      "source_sha256": "526394cde0d13793be5e1983b1f6345bdc0f19a411a19d0ef161411f229138f6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24873",
+      "index": 24873,
+      "source_sha256": "5743f25558c31a8b4798fe42d28d00f7aa73a4a4a3d14c986ef399597dc06f63",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24874",
+      "index": 24874,
+      "source_sha256": "84c4e09ae9ffb9fb451cf110c6fba2ccc4e5ef5934d66e7bcaa87f6560e4439a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24875",
+      "index": 24875,
+      "source_sha256": "85aaf0ec017ce0f3e8a4da087ad3343481e5a8dd25f7cc47d5cefc61dfc92a52",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24876",
+      "index": 24876,
+      "source_sha256": "716205e5b913fea4a3a3f21739b854b5e27333e23839ec934a1347bbd257f92e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24877",
+      "index": 24877,
+      "source_sha256": "1730a335b232a21c9e994c13daf688690bb72900924fe6de5e4afd82013032e2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24878",
+      "index": 24878,
+      "source_sha256": "f93eac8c8ff94692d05bc1f48c27625cbfcdeeb04691abc167983d2a79175fc0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24879",
+      "index": 24879,
+      "source_sha256": "c401d1958ac519940f2ccb2cf950252f98ad536eba3879945811cc434c50ccae",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24880",
+      "index": 24880,
+      "source_sha256": "716cce9aaa08d79866445be665d4bfd40a450ca09b884b631e3596fd471e3906",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24881",
+      "index": 24881,
+      "source_sha256": "d6ec0b6efa781f98333c5ca84141b5366a5bd226171a744ebed03184729e65e5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24882",
+      "index": 24882,
+      "source_sha256": "29d857fc1fc4f2a089f92378e9d1fd9fb573a2e5999e5b1ee245d27edabc3c66",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24883",
+      "index": 24883,
+      "source_sha256": "62e560ec3e1ddffd74438b73fa19efecd70768f9a3716379373ec2f0ff2b4988",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24884",
+      "index": 24884,
+      "source_sha256": "8a15004d7d0eb173fb19fe0e5c14921af4cd20642d499b9638c6d71541f813cc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24885",
+      "index": 24885,
+      "source_sha256": "2152249b500662468045de3f33405391520cfe24e82a7dae65078349918ac3f9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24886",
+      "index": 24886,
+      "source_sha256": "284eb4a7ce21dad0228f6261dc309201145349772442bd8c4ad69917ad1451d6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24887",
+      "index": 24887,
+      "source_sha256": "344581355caca04a5b383ef5a5b57c2e986b9cfa78ed5bf0d7ec1a85af5865b4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24888",
+      "index": 24888,
+      "source_sha256": "50fdda434f0cb2726c92bd55e7ec991a0287a622648d291641008c735c10aee4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24889",
+      "index": 24889,
+      "source_sha256": "bfa11e2d5a72dbb655ea9de5d673e760070154a0022c340aa8ceb3a48efe71b9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24890",
+      "index": 24890,
+      "source_sha256": "fda802ac6fcb96534780c3f9ca4014f56c751b08efb507033540b7413d928a6a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24891",
+      "index": 24891,
+      "source_sha256": "414dd01f2d651a5869a9d48a3cb09f5a350d4c82ffbc4fcafb5cd93b0ff3b8f3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24892",
+      "index": 24892,
+      "source_sha256": "e87db8cd7df6658a5fe1a62fd19483cc58499fa21a18831fdebbccc7f97d7a6e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24893",
+      "index": 24893,
+      "source_sha256": "fb85b20a0818e0943f5f2cd1a5c21279c12ba730eb9caeac42173f6e3a0e9778",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24894",
+      "index": 24894,
+      "source_sha256": "9c7ed4afa1ea7956987657375b5ab1a1ebecc44f529bc43f1d33becebd979791",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24895",
+      "index": 24895,
+      "source_sha256": "27726534e3fe2037292f0ed1f65d7c8cff7197b154a2a0bd01344c83716c63a5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24896",
+      "index": 24896,
+      "source_sha256": "7d12a972249ff9d90e6be4c6ef054b089bd0369d1d7a6d8a803295656c543046",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24897",
+      "index": 24897,
+      "source_sha256": "c5df58c57cf188c471b2130bd41db2060e70c6ef9b9a5c78a95f5c321bb6c6a5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24898",
+      "index": 24898,
+      "source_sha256": "104cfb1261bfef6944000419910f1a51b84b860156264680af5dbc4ccd80ec3f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24899",
+      "index": 24899,
+      "source_sha256": "f0e91cc06753381c839bd7a8a34efe174db1a864fd021e60fcdb2a301adf9a8a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24900",
+      "index": 24900,
+      "source_sha256": "1f8c692ed274c15236b7e0d2d101659ceb38115788dd8e195a3bb6adde6ed9fe",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24901",
+      "index": 24901,
+      "source_sha256": "8d2c27b8cbbabf69e9979bc8c9ad5fca97bb679c7c2aaf4d10b75698e2fe336d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24902",
+      "index": 24902,
+      "source_sha256": "5f971f317293f69aa47b394fdfdef861828981dd4096e864b536eac58cc54541",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24903",
+      "index": 24903,
+      "source_sha256": "5edff007096a5c0d9e57faec3a2a9fb820d65b65b0427f519d07b4b448c8991b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24904",
+      "index": 24904,
+      "source_sha256": "d6719b6275ca8b3019af8d2fcfed33c7cda86f867abce9967f8e486523568598",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24905",
+      "index": 24905,
+      "source_sha256": "4b070b2b6b128081efed3ec419260c3de266a406143304a747b22191967066b3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24906",
+      "index": 24906,
+      "source_sha256": "8f800645edeeeb37492954f35da90121fd019fdb33e1ca14784ec20fe32bfbdd",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24907",
+      "index": 24907,
+      "source_sha256": "4dc5171322d9e92a9e724cd179ed6355f51bcf9eed18c11ae26327b51413989c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24908",
+      "index": 24908,
+      "source_sha256": "209ca71662ffe1443c233534e7fdf8da09669a3dcac5b7092308f272f0b6b1ed",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24909",
+      "index": 24909,
+      "source_sha256": "e25793147a042a988af2c224a1face9b89d753796aac11193bc3dc133ac9268d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24910",
+      "index": 24910,
+      "source_sha256": "ddc185f1988961c2a20b3f7e185db2c22042add4f9c0d687b393c50385371061",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24911",
+      "index": 24911,
+      "source_sha256": "ec30a7378cd18e43085c9afcb0f7715cb749faef84200e4e17a3f3a8bed4553e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24912",
+      "index": 24912,
+      "source_sha256": "5254b0518f97b47b081a62c5f2836256a0781aedad0d0ee08008869aed38749d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24913",
+      "index": 24913,
+      "source_sha256": "3a3e9d5e74628c84e13b128823292dfd0a692ff0d352be4b0443b317459e6c86",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24914",
+      "index": 24914,
+      "source_sha256": "6c854324bcd2a226d1d27029ae66931b8210f8879d0a0ee0d8a000cc869dc38c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24915",
+      "index": 24915,
+      "source_sha256": "dea2cfc1a901c49dbbf08cfe23d568ab7578f3bc160c47ef190d93511aa9608f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24916",
+      "index": 24916,
+      "source_sha256": "977409bfb828958bda6e71e1107c6055247796ecd70508e7fe9b1c84d9560bab",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24917",
+      "index": 24917,
+      "source_sha256": "98181fbfcca331abaa60bc6f6ce17b2efcda2f50e62b1a9113b6440c02bde2d6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24918",
+      "index": 24918,
+      "source_sha256": "91a41c7bc8aa3dc298e3675520460caebe644d59dbf733ff240e189f1724f7ba",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24919",
+      "index": 24919,
+      "source_sha256": "2acb6cc19ddb68a236c5b5fc9c8529251ccf604678d4c0a0f75841aa040bbeb9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24920",
+      "index": 24920,
+      "source_sha256": "d4a62281382ccdb06a973fc2ad17684e2d1ca7f7db0493cc7f7b59d6f5394d65",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24921",
+      "index": 24921,
+      "source_sha256": "34035e9fe9e0aa0955b00a081096da6a6a4f9d84b80f82db64c628452f2018e7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24922",
+      "index": 24922,
+      "source_sha256": "a68e8439102aef5cb10d86a6560f5d57563d6a6b819c4b7093edabb91b81c331",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24923",
+      "index": 24923,
+      "source_sha256": "da6ab3941a4ff8e26153a9ef1177df215023943bf8584e0649b0c4225105a858",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24924",
+      "index": 24924,
+      "source_sha256": "21dbfd6696984b6606a4073edfcd8b94979805b5b20e10b2cc71ea2eac4882f0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24925",
+      "index": 24925,
+      "source_sha256": "c4b576fb6a6709ade8008c4cfc59e9772475afb4713609e91f1ebeed03126b22",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24926",
+      "index": 24926,
+      "source_sha256": "224a8407af2abc24996e653da8624959e85e67d875e899408f91f6452f56a945",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24927",
+      "index": 24927,
+      "source_sha256": "b7ce60792f47311769f41e9fa2758bcbbccdd65add6bd2925194485fe8ff308f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24928",
+      "index": 24928,
+      "source_sha256": "bf78966bff1857b458ef4568db31dca123e86dd1750a0e3bfcc60b381138e00c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24929",
+      "index": 24929,
+      "source_sha256": "ee6ec42155305bf607867557c8a34e3afdf5ecaf06dfb684660e6e7ce2c786e6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24930",
+      "index": 24930,
+      "source_sha256": "d15bb5db9038c33024c888210f8038c2048a591bce194e7bf8703dbe9857c3e5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24931",
+      "index": 24931,
+      "source_sha256": "1c686399b88b3e0d2823daae5e8e52d5ea80bdd46bb97bb98ff86b72ec0c0924",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24932",
+      "index": 24932,
+      "source_sha256": "3fa04df9954f960dd4cd5dd7965bb7f38f4cd454de13a4a98e03ee030df8ac3e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24933",
+      "index": 24933,
+      "source_sha256": "4631a36c18a1b011ccacdbf7e6f00eade347eb91530df9403ad89ee5ea0833de",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24934",
+      "index": 24934,
+      "source_sha256": "b81e527215eebed657d2e39d0d41fe6e0ce41976ce526f6d121f30b60ee8a764",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24935",
+      "index": 24935,
+      "source_sha256": "b3cb0d3d6075b63034ee55c9b985015c4a7c1c58b2f945a968cb96d71923bf97",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24936",
+      "index": 24936,
+      "source_sha256": "7601433c3e9759476e769e97bf8d4b0628657c084538b8a5e3280e3b5783fb0c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24937",
+      "index": 24937,
+      "source_sha256": "be461d8df083b0e6b06c06bc5db72c25509edb287d455c138d77ffeb82b6aa2f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24938",
+      "index": 24938,
+      "source_sha256": "9629712fb5fdafc8cc74c5f2fd49336fe5467c75348e81ee004d95182c6da31e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24939",
+      "index": 24939,
+      "source_sha256": "e793b211a86867d36562f95ffb500917180b187d2eedaf61f15788692da1ad06",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24940",
+      "index": 24940,
+      "source_sha256": "8d666ac514548b412f6795fb5ab7d9292e32482cf81c582bd6e70716830e1108",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24941",
+      "index": 24941,
+      "source_sha256": "4214d33ac709391da00a6bea5d2cfcae5c4d7f204c4abd2f0e7c43bd1e7cfa4d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24942",
+      "index": 24942,
+      "source_sha256": "7165d073d9c463778762e35ca49708c423553017abadc1a2d685823c5314fec5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24943",
+      "index": 24943,
+      "source_sha256": "b028840cd98d151921bfc9b9025d87704c1b93bf161f9a09f5336f4b95a3aca4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24944",
+      "index": 24944,
+      "source_sha256": "86c45e17273354be55cd5dc10a49df65e4ff8f1354cd632b2fc46c19f2affce6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24945",
+      "index": 24945,
+      "source_sha256": "fbd1163ca04b27ca13e05dae8e53f7fd1236814c1c902e5258c6dab576a085aa",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24946",
+      "index": 24946,
+      "source_sha256": "9e921ba2f71c7bf38e827e5f0189375ac03750cd04cbad638819b82cfaf80e48",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24947",
+      "index": 24947,
+      "source_sha256": "7c738d7a5bc96fa2b18f3f3c9740baf88edb7f78b20475a75005b324460d6c8e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24948",
+      "index": 24948,
+      "source_sha256": "ad9449a8ab01aa2068d56a10bbe22dff9b12f3ea26bdb93c1319ce3cd9c07526",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24949",
+      "index": 24949,
+      "source_sha256": "697ad5f239e02958ada4a50023ad0bf9a29a7b02c6fa431b62f556656762b229",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24950",
+      "index": 24950,
+      "source_sha256": "285b783ca0b371e28c68a3167f2d1368b803dc06abac9bfbca4ffd3da6d4a0c9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24951",
+      "index": 24951,
+      "source_sha256": "26b0b3c0c0911b6ca678d7865078a2324696bd41dae5e61eb5f7fc9276fcb62f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24952",
+      "index": 24952,
+      "source_sha256": "51c4f01eff919a7cdabbf5d59c945bf7303923eda9320fd200f32b3aa8b90fe2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24953",
+      "index": 24953,
+      "source_sha256": "a06148aff4d75fea4af536fb3dd176405f09fed06aca8f86db20ad69aeba4869",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24954",
+      "index": 24954,
+      "source_sha256": "60026711fb97de5e90e654f6f5863356877d77b236b5c850bd1be5f7aa6e9e9f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24955",
+      "index": 24955,
+      "source_sha256": "cc092e9158e1b5765cb40b9a4de158709d199db0ac743831021891a2bb8eb8b0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24956",
+      "index": 24956,
+      "source_sha256": "b4820c7fefd115047f26380ab3ff815d4565b03dcfc57fb95d5869a5098a254c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24957",
+      "index": 24957,
+      "source_sha256": "d5f6b0b893f87013b85e243434497863c7613dd9cc1473848d2d2a9f144c8857",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24958",
+      "index": 24958,
+      "source_sha256": "88b7ecabbd2399209c0db07862d9e77e5730f1d788cc2e0cd743972e1a02b96c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24959",
+      "index": 24959,
+      "source_sha256": "7deec386b5e7027b74aee3321da9ab1f9fd6c7574bb2463b8965954f1f5fd96f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24960",
+      "index": 24960,
+      "source_sha256": "d0423a351c05a00df6769440db470ffdb8d2dc3339f5e100e5f02b2782e2ac81",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24961",
+      "index": 24961,
+      "source_sha256": "db7f398996736affc721117c722c5dfbc9db59aa8f2ad5ddf98527f3c1172eab",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24962",
+      "index": 24962,
+      "source_sha256": "f7deb2de777ba6a8e3fb8062de012836b28b36d0b9b1577cb88110aa1a1cf522",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24963",
+      "index": 24963,
+      "source_sha256": "472ea94898f5eeebaca55c26fa78d228c2410a04407284bac58712bd6429373b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24964",
+      "index": 24964,
+      "source_sha256": "a43efb6ea1a6b54a959c66be01a641d5162a0e55a25e8d7e3a319248e3043bdf",
+      "status": "reused_pending_context_review",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24965",
+      "index": 24965,
+      "source_sha256": "e7ce52c05007a5895555f7e61004cd06674f80dfe2829265440709d417dc79be",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24966",
+      "index": 24966,
+      "source_sha256": "3a309166a10ccb8651cc62d75572a1bffa8e36b322e70ebc6b48a89cf134acc9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24967",
+      "index": 24967,
+      "source_sha256": "1b7654a8376dc2b410fd0f6fae8482b6a150210c200afe961ebbf5fc08dde9a6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24968",
+      "index": 24968,
+      "source_sha256": "14e485a0e68bb4578976762ab256c861961f84d1ad1f4f44ced1e7955774326b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24969",
+      "index": 24969,
+      "source_sha256": "bb0ff601b9333dab8227d76d7461ecc2dd6bcfcfd2894d0869e062e9ccd5e9bb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24970",
+      "index": 24970,
+      "source_sha256": "3a3a608356ab97eb90d884a85945f7f7bbd577e3fbab5fc297fdfbb399e32a5e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24971",
+      "index": 24971,
+      "source_sha256": "6dbb0227ed7a86de7e355e2b3f685273363b75701a490fe8a1d625c78f28e3bb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24972",
+      "index": 24972,
+      "source_sha256": "d6e57064f5339ad14c74a669854f619a23422de6c400d43ca66d5292d698bb69",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24973",
+      "index": 24973,
+      "source_sha256": "eeecfd88d34eab422ba9c7631a384ed619b3b10c4f2321fa8be76c2fea4f9939",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24974",
+      "index": 24974,
+      "source_sha256": "fc2146e4cf1df9dfc5c3bd5ca214a8bee12e40c95101e3a6a451a76565a11835",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24975",
+      "index": 24975,
+      "source_sha256": "906613053d02a27aeba3b7596facdd1386237a8a7efa4c589752d1b031bd5b71",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24976",
+      "index": 24976,
+      "source_sha256": "c002d6331c9862ffc0343f2f935e89c98a3a6d2748d32c5507011c95695192a9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24977",
+      "index": 24977,
+      "source_sha256": "740ccb53f8e0344f46b57244250df172eee78f5c444cd86e77b90965834367a5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24978",
+      "index": 24978,
+      "source_sha256": "0853d5ea7106e9968fc5659fee9ba7cd142e5dfee82284477774947c317872de",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24979",
+      "index": 24979,
+      "source_sha256": "b86ef2deb613d7c48d330315b5e8a74eb3125b5f31ff5f5daa2a59f604cf622d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24980",
+      "index": 24980,
+      "source_sha256": "e2f46cd6a1e4573c4b10faf8599a94f07354640568d01d5ef5c94a02c27f2a6a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24981",
+      "index": 24981,
+      "source_sha256": "823dadb5a2d6e7f7029412d354df5ce78364048fe7c71545534cf30bbe6f07be",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24982",
+      "index": 24982,
+      "source_sha256": "d4612b1628e05ae56b15b0a8969365635ad24f69e1dc5a452ce851651c086d33",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25013",
+      "index": 25013,
+      "source_sha256": "c52b007738fefbb61e0019d62284ca71bdff68b3af94114a4a306b79fcc72fdc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25014",
+      "index": 25014,
+      "source_sha256": "390ade40d3635c59e0e29dd8446ef573ba0ad191a2b7b99d5e2d40db76e2e93a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25017",
+      "index": 25017,
+      "source_sha256": "f8c76023b6d681bb483f6e98c1e7daf9c27296a545903ea77f62d423dc05f14a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25018",
+      "index": 25018,
+      "source_sha256": "eb89df85a9374dcfe388384026b4073ac4b940af575dfb4ba966867b4d33adc4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25019",
+      "index": 25019,
+      "source_sha256": "acf993ea8613236a8f9bd6218bb631f38888432fc8ce335abb3eaa31453d7e4a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25020",
+      "index": 25020,
+      "source_sha256": "f53f66a54730b250c187bf709fa91720b15db1612085444dc02422f9a6498960",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25021",
+      "index": 25021,
+      "source_sha256": "a0946d11b520ebaf568cdd439a328fb1f75cb629ae8f2497aa0d31d4ed4036c6",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25022",
+      "index": 25022,
+      "source_sha256": "8472fcef03d0f936eecc700b0e960149164c30e0b3b9196dbcbcfac687fc1b41",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25023",
+      "index": 25023,
+      "source_sha256": "fdfff8d2f904e5616b61a3e718dc70957f06176e3022d7c9e61a12aa5f6750b7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25024",
+      "index": 25024,
+      "source_sha256": "f7c043751a8c84deae38578c6dcef94863059dea4aa817a05e567d0a8fb2df91",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25025",
+      "index": 25025,
+      "source_sha256": "416f0f395a1dbc2c536e9013b3b1cb5e49ad4db2b1704bd4e7a3f2beef0fb837",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25026",
+      "index": 25026,
+      "source_sha256": "62274ba782d5fbe8b92230a0e2b7913e94cf70b409ab4550d2517c654ff12519",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25027",
+      "index": 25027,
+      "source_sha256": "f6dcd8907b9d2e00c7525954b4687ed3570570a93a280af82bb263f292dac7ed",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25028",
+      "index": 25028,
+      "source_sha256": "0e1f6288344e90060b39e32a43c8bad1ecd2445fd7e499a1a910db8005cf4a3d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25029",
+      "index": 25029,
+      "source_sha256": "239802bc0fb625da8177a3a39372ae8194cf6be3ce2afd72257b82f8fabd7166",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25030",
+      "index": 25030,
+      "source_sha256": "119b25a9b0734449816655bad059b786411cf0804265f9900c9b187c903ade90",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25032",
+      "index": 25032,
+      "source_sha256": "b6afb20ce9011b4c99155af8145c247021fd6b689109b6e3133577260b572c2c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25033",
+      "index": 25033,
+      "source_sha256": "66c04890063894621e163e1ea18d7eef60ed15349b5af9f8abe6c777a4330cce",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25034",
+      "index": 25034,
+      "source_sha256": "9a7476e790e997c4acdd6d043bbb47551eecc879734b5f13e47d372af149d41c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25039",
+      "index": 25039,
+      "source_sha256": "6531d15a3b211115b88d059f0cb96680b7339d7a821f9b50b1a0a21454de694c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25040",
+      "index": 25040,
+      "source_sha256": "95ddebe8361bd378f3985d69e275509ce1d0e1af5a5d7e19533966006b9bc913",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25041",
+      "index": 25041,
+      "source_sha256": "aa51826d7d0f5d56247af8a0ea8c2c039159ba38c2492eb79f7909818ecc08bd",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25042",
+      "index": 25042,
+      "source_sha256": "f36a29190f0ebfb46b7f673f8b95172b86b7d83cdf1c90a04b26d30166d273fb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25043",
+      "index": 25043,
+      "source_sha256": "9751ee4019f89d78369e4cd74b7a567dfe79e26a47c02ab8cf361c2aace048fa",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25044",
+      "index": 25044,
+      "source_sha256": "c10ec99bdbdebe1b26c214547ffb1941b8d335221e7f931284ee5d8961407ad4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25045",
+      "index": 25045,
+      "source_sha256": "97e77234307bc4d617973b71fe8a30ac31a7816bc6652f6a51e78fa670c35f48",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25047",
+      "index": 25047,
+      "source_sha256": "eb59c145f3fbf0618b6284a5e919f562b22ad9dfcc565ffff0fc4526bf9e8ddd",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25048",
+      "index": 25048,
+      "source_sha256": "8cbaf7c030ee1c3303a380485f6c0376be04527369a1bffc4d313dc8c82e9c1f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25049",
+      "index": 25049,
+      "source_sha256": "86c64ed523f64a14557140745389827ec0b5c491f65c09edc9a2c94c215abb82",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25050",
+      "index": 25050,
+      "source_sha256": "ebbe498aaaafcd507a6599b0ea2cd2756447558036ee3471cceae131c970d0cc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25051",
+      "index": 25051,
+      "source_sha256": "a4a0ad1c70af09f407a8c56987bcf4f17e1cf9316cd3f470a7c90dd28f57c7bc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25052",
+      "index": 25052,
+      "source_sha256": "6108ff4723be70a4845440b6482daece466e10a116b58e05eb826b6ac9c27c50",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25053",
+      "index": 25053,
+      "source_sha256": "0a300b27866a6c17138bfe7c571984b0c4f71701c62d169abe0382d23962533b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25054",
+      "index": 25054,
+      "source_sha256": "64f2a6a45f37b05aa9c1eb64333aeb7267f1bc5daffd96ceb8cd19b90491a76c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25055",
+      "index": 25055,
+      "source_sha256": "6b85c3662884fafa42de2e3b70ae9837040e98a459f5644d528ddbff26158532",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25056",
+      "index": 25056,
+      "source_sha256": "5f2752b00309f1a522241b8e0014009aa69ef6b14baa113aba5c6c2c3f40d112",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25057",
+      "index": 25057,
+      "source_sha256": "dacaa5fe2c4e603a29193cd0158d2c84d229c42e635fa779756a8e59a8002c90",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25058",
+      "index": 25058,
+      "source_sha256": "f5048dc97b5fbc5ebc65a7586d05df4ff9531f381221d0941d020ae1cd68057c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25059",
+      "index": 25059,
+      "source_sha256": "63a3bfc3b777baa3ed81fd30abef4e543d7e6dc2bca78b8367d05627fd3f2ed5",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25060",
+      "index": 25060,
+      "source_sha256": "9d6c66e63777608ee6412b9ddafeda75737e9e7de5216f6c1379a7ffb3594563",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25061",
+      "index": 25061,
+      "source_sha256": "399fb8d0b74f02a8d4476ddd2718c911c536e9fe33859f589cc1d2a820ebdd5f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25062",
+      "index": 25062,
+      "source_sha256": "34328f62be32d5495407a2188068930fb4e763cc7ed4fe93faf68c7b4d8dbc33",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25063",
+      "index": 25063,
+      "source_sha256": "06df64dd40a86e9f958f1aa21009eb874a677dcee31ae6e6269fce15c3de7e8e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25064",
+      "index": 25064,
+      "source_sha256": "557cf622e301b51bba9ce79a42a37dcd788bf9a9ee2a5ba0abfaabb5a98ca563",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25065",
+      "index": 25065,
+      "source_sha256": "42a3fcfec8dbe22240822292f33f481580ca542f1813ea18c782c86766874861",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25066",
+      "index": 25066,
+      "source_sha256": "ef227c2331c566c2a863cdd68392e9541311ef46d58ff12392eac7569c18d923",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25067",
+      "index": 25067,
+      "source_sha256": "a73d1234599c0795bc44e2ae23028f318e94bd161f26be0fc43b56bb2f046274",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25068",
+      "index": 25068,
+      "source_sha256": "ad5394720c4b7627ef4b8b5dfb39d61393a39bf75de6f01af001f7cad87d4eba",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25069",
+      "index": 25069,
+      "source_sha256": "e46a0a0dc86ee6e46d7225c4e0905b9cdacb71cf26ab62e63d9436702297234a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25070",
+      "index": 25070,
+      "source_sha256": "2df0e27d4b294863cd5be1d6763b566963d42dd9d82d0ce64d28a1105e999967",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25071",
+      "index": 25071,
+      "source_sha256": "167e2ea240770c4d66309e02bd9e91590cbe6e69761976d78049445332a164e1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25072",
+      "index": 25072,
+      "source_sha256": "a9ab2a5c3625281d4dca38e382bf3d45ca16078efd73af860a6ea5755e78a0cf",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25073",
+      "index": 25073,
+      "source_sha256": "85a6bd58c974e831922959ea0abe61144c6fc03e60ec8050b7a28daab41e1e8c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25074",
+      "index": 25074,
+      "source_sha256": "b7fe5a672310efdf4790db8c3aa7cc2c77a6e5a8869bf4c5e6520a5f4261b4ed",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25075",
+      "index": 25075,
+      "source_sha256": "11dee7496913ae014538eed146b4fff66d85afdf147bef3fe51b70a9d71d7f07",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25076",
+      "index": 25076,
+      "source_sha256": "f5f7df2caf5d0f15cdcbd858758c6ec4ec6c98e1c0deb184e755dbab9e69047d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25077",
+      "index": 25077,
+      "source_sha256": "7f2302c86d005fed4397eef4134c2c03eb6324268449f5cf97595e6307942c31",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25078",
+      "index": 25078,
+      "source_sha256": "9522e6611e34bd7ba1a73464313e59cc1a2de76a2de8901a34ba43986a264d17",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25079",
+      "index": 25079,
+      "source_sha256": "c1de670791fe0cf4fa367ff4d4f66ba65b43fcb484e5eb305bbe019e682d24a0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_25080",
+      "index": 25080,
+      "source_sha256": "7fc06e663644a2a640a4ad68dcf9b31061504493d601850b4d0fcde4bdcf4278",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27907",
+      "index": 27907,
+      "source_sha256": "5f29ab575b54b50ccc4dc9edb0e30ab3c8c88266ec17b3c9691ef40a1e25c0b8",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27908",
+      "index": 27908,
+      "source_sha256": "454e79e736d69191190f12cf51300b757c39f58a36dca61f8536b6fa6f8a886c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27909",
+      "index": 27909,
+      "source_sha256": "d1d7440d5f530cd2d49138201fb059c0319f671515af7abecba8ac0e08f4a73d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27910",
+      "index": 27910,
+      "source_sha256": "3a8dea6f3170c8511332156e4cffa7953ef425324dc4df749ad8dc3b7cacf0e0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27911",
+      "index": 27911,
+      "source_sha256": "b8e50ffe7fe51a16af3d11ec6f592641835929c1e10e23a592a5147fe8c43708",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27912",
+      "index": 27912,
+      "source_sha256": "5153472e3c587f9d7b1fa9140c0e95e7d79c359a0316d40c3161ac9f5e1afdf9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27913",
+      "index": 27913,
+      "source_sha256": "23159d15d83b2eb621b678e5435eb8d58a2e06f84b494dc936f466824745402d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27915",
+      "index": 27915,
+      "source_sha256": "83b1513857dee1eb2596c37c95efb2aa4f8658585f1fa85d6a441913a68b487d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27916",
+      "index": 27916,
+      "source_sha256": "928a62b81a9cf6f880cdb0de140549c349dd41df956f224bf962bdb10964f5a1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27917",
+      "index": 27917,
+      "source_sha256": "7c359e0a86efd4d9b1faf5cd7ad866f49ed124d8ff46e59f946415184e2b3ead",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27918",
+      "index": 27918,
+      "source_sha256": "6fbf84d6aac2b3cba81a79e8deda36ca544dca18bbbd72dff21b8dbf5b7320f3",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27919",
+      "index": 27919,
+      "source_sha256": "a8d9a6433c9afd03707d629eef30cb8107ab33a31a46c2226cd756c343636689",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27920",
+      "index": 27920,
+      "source_sha256": "1c509fb7a31d62566a30f77a8edc11fce07580706621569a29f22cdb4c4cf340",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27921",
+      "index": 27921,
+      "source_sha256": "87dd1970b5fb02722b0a9b6afb1f9b636bb52aafe0ecfa7ab00ff9a2267c05d8",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27922",
+      "index": 27922,
+      "source_sha256": "412f9cae29c7cd101ec97dab50c03e8cad47d3133e3d5b3ae39a61f4018a4989",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27923",
+      "index": 27923,
+      "source_sha256": "83197d75f3b46b8ec8cbb1391f2d0639e3e0227f9fc2ebfcb9f744b1bad73576",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27924",
+      "index": 27924,
+      "source_sha256": "e654e30dc52316d0e4d67448b3b53af73cad18b18edd3452d1594579c5738a37",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27925",
+      "index": 27925,
+      "source_sha256": "007f441aba75beb09112275421ba8b12b67fad075265195b6b268593cd9d7a64",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27926",
+      "index": 27926,
+      "source_sha256": "bbb5898b3f792807c4d7277930d052f000606daa0637b60d185e41d7fea4face",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27927",
+      "index": 27927,
+      "source_sha256": "3a6b2c1b36afa96e097bfedbbbf7f6e8db2f0dbb77ea3bc5103af144f725d15e",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27928",
+      "index": 27928,
+      "source_sha256": "b673ab9d94ed9a4e4de17d4fe0f33da0ecea63e8c3baecbe9b79f1efc0c6ac4f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27929",
+      "index": 27929,
+      "source_sha256": "f55cfff9a511dbab538d8f13fac5fd07e93015f95fb7995ac26404ed5ef5a7e0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27930",
+      "index": 27930,
+      "source_sha256": "107bec771bae09e186ef6f49a38f1d9af82524d46ed2612db9c36938ef609654",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27931",
+      "index": 27931,
+      "source_sha256": "16f15636d87b57622ade4b57ac18e27ec169a1673356d6fb25b2f31caabd4da1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27932",
+      "index": 27932,
+      "source_sha256": "2515d83afdac32e0797012fe408d3793280bdbeb5068cf648c0bdebb588e0aea",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27933",
+      "index": 27933,
+      "source_sha256": "4a5df226c890a1917cc3a0fec07a3e56a3060ac3507cfc76411b6eb24f035f4f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27934",
+      "index": 27934,
+      "source_sha256": "18d8b4473f658877bc94190099facf7c9816e24e5a51a2b2fb97fc459104f3d9",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27935",
+      "index": 27935,
+      "source_sha256": "beec2d2629d8d00ae0ddbdc5ae0f042448c048afbc123cf3fd463ef1c7f6aef1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27936",
+      "index": 27936,
+      "source_sha256": "e0670e746e7495628ca2ccd960cbf728c08f80bb05ed4113be70cade87d339e7",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27937",
+      "index": 27937,
+      "source_sha256": "add8044e680631b02e35350c66c4c87ae3d77b62db46eec4c82dc2d27c028bb4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27938",
+      "index": 27938,
+      "source_sha256": "26cd4d6e932c4a3dcf61360d374ee0d7fbba36faa4a200f3bcefcb230e4fb6bc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27939",
+      "index": 27939,
+      "source_sha256": "72cf339719a430dec0a28bd840696280645c44ace7d7e07a17da27f0ddbb93e2",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27940",
+      "index": 27940,
+      "source_sha256": "5032332549c4b408a54719be136d9b66a02d46c63851c237d84bec241b2da949",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27941",
+      "index": 27941,
+      "source_sha256": "d126ca612e32d921490abd13ce3716862618d580ddf79f273d0650dd58915777",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27942",
+      "index": 27942,
+      "source_sha256": "2b0e225b9ba8effbcee8e0e023bf8bdd4d4d59396385210a91b8e1f75b072127",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27943",
+      "index": 27943,
+      "source_sha256": "d4816f4621085a72b7d37b49ae29e82f9c825f4d81ba6ad6b32f499ee757b9b1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27944",
+      "index": 27944,
+      "source_sha256": "381879c0c26244787a3459e247beca16ed85af9c96d5a0adf17d4d7e9fe1d6bc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27945",
+      "index": 27945,
+      "source_sha256": "145b4ef9e298ae6869a7dbeb8bc8781688d5473154d9af3b5452290081df0a5c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27946",
+      "index": 27946,
+      "source_sha256": "626eb573552b2175115239afbf503a75ba53142b1b66c266192a2a0741bc2e58",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27947",
+      "index": 27947,
+      "source_sha256": "05c5423b9eab90163418c0f9308b89577bc80f807d20800def2ee34a5375894d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27948",
+      "index": 27948,
+      "source_sha256": "571656e214fb90b2cb86b1c9f7c054c1c66bafdaf49af1a5299dff4ca5586e0d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27950",
+      "index": 27950,
+      "source_sha256": "c2a87af4a64e8cc1a9c32b2f5417848f9983be6854bb356ed6de5009c3b58618",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27951",
+      "index": 27951,
+      "source_sha256": "e739a6a200324fb0c2adeb77df07e15f0145697131fe0a36cbda5ab1b05154fb",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27952",
+      "index": 27952,
+      "source_sha256": "ea079bfaa1b0defa1bb8c22e99eba4793a474f5d3ee1f6a9187e7c0ac9afd0b4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27953",
+      "index": 27953,
+      "source_sha256": "23afe01b34cf744f9da2822aec47e6374c6e6e03017a650e73ac35afc5e04f43",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27954",
+      "index": 27954,
+      "source_sha256": "301047c4c050fa57ef8025e8bafd07bfccf93d1bffa432d941ead8be45e7bc60",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27955",
+      "index": 27955,
+      "source_sha256": "57598a2d6e96cffde149f53d0e3be0332849131a2162d6be878ba95570324711",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27956",
+      "index": 27956,
+      "source_sha256": "b3b0e528404d3ca8ad1d315b4cd86573975f56ccace2931745172dce44ab3c77",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27957",
+      "index": 27957,
+      "source_sha256": "d525cfadef371974cce94f6e2ab71c6e436c907f68982f47c290954fe6d98eae",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27958",
+      "index": 27958,
+      "source_sha256": "b5cf2e058a45343adc57a9156d8dcb3b01298f18b4c840a08805bd71ed1c4a10",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27959",
+      "index": 27959,
+      "source_sha256": "e4a64327cfa428cf9c2919101e950d8c4383dc60b9efe55230f139b5e694fac4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27960",
+      "index": 27960,
+      "source_sha256": "9b6f02b9d373c660e8d73cca07543b18546bbc7320a6345e2071fdb7f43994dd",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27961",
+      "index": 27961,
+      "source_sha256": "465ab897112d357c975dcd9c4dc575106cf1b018edf135da746204ebd8ca7258",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27963",
+      "index": 27963,
+      "source_sha256": "f99d630c3d60eb1ae175292bd1e4b088582bb7af60629b64c96b49f3cec8f35b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27964",
+      "index": 27964,
+      "source_sha256": "8ee77d328d267721d8228094aafdd8aefe4fdd878fc6ea9e201f1ef53d6b054f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27965",
+      "index": 27965,
+      "source_sha256": "a6e95ad27b7bed4e3503ec6d76fbfee520963dba6600c99a700865675425781c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27966",
+      "index": 27966,
+      "source_sha256": "0cdda1a707c058cc8b24ce751a656524f1fb071e6c98e8238e3f783134d7a5cc",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27967",
+      "index": 27967,
+      "source_sha256": "612d57c4f953696d129287e21a8371858bc6f91501d6ee207706f5d04423109d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27968",
+      "index": 27968,
+      "source_sha256": "58f7c5a50d4b820d3e65c44aaa77f82e69d7d6aeca7c367bc147495873fe2033",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27969",
+      "index": 27969,
+      "source_sha256": "471f708808f0ca414e2538cdf23bd603d09342745d391c3b4afbe855e71833d0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27970",
+      "index": 27970,
+      "source_sha256": "5fc57aea602e0fdcd9ede9498620731c390bcd8f5f0d7b6ef7453a293ebd47ce",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27971",
+      "index": 27971,
+      "source_sha256": "40832d3cbce544cc6fb664954aad30f6b93e1669cb2e801e028d151de073193d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27972",
+      "index": 27972,
+      "source_sha256": "01b901b1e2a99e2b7b7f75049dcc599bc84bc5a37e9a68f3953279a05ec6eb37",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27973",
+      "index": 27973,
+      "source_sha256": "3364cb19cd0352c22d499e67ae33d1c00fdb8d44109db616b57328df1fa44c83",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27974",
+      "index": 27974,
+      "source_sha256": "92e9f60e79bca6fadb47887883a10169b7d56d7d8b12b055945efa7fb99e6bd0",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27975",
+      "index": 27975,
+      "source_sha256": "2e82cd38d7f37e98ebd20bb28924abe841a1a2873b3e886f434bee6e3e840865",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27976",
+      "index": 27976,
+      "source_sha256": "9c415141a132a7a55817cc9e41f1c4f781e9159376cb4f8b745a88381c93033b",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27977",
+      "index": 27977,
+      "source_sha256": "06c37225d8504f41ab7a8fe238b1fb4534859d0360e962a620d979d942081201",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27978",
+      "index": 27978,
+      "source_sha256": "994041f1d22bd7464a022eeb2de9ea7f2b30a65375cfb3c0149dd13bc09c7eca",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27979",
+      "index": 27979,
+      "source_sha256": "f1a9380b42ed85df5f4528e887a601dc031a8447c3bf0a87abd9f52bc4424236",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27980",
+      "index": 27980,
+      "source_sha256": "fea5ef4f43708785b89c49f9e1e70e89a5f798418fa0c65dcabb45cbf9dc2329",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27981",
+      "index": 27981,
+      "source_sha256": "b4fcc8f470f5fcab517eeb9d27a944da9072bd0e36526e49a31ae9e794d3a195",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27982",
+      "index": 27982,
+      "source_sha256": "faa21a895c0405ac6020ebb914fa67e216e50d13244f7dfd4ba40a708422705f",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27983",
+      "index": 27983,
+      "source_sha256": "d9acc9304a223bbf5d01896f7cfa9cfe63509a7e5442f2c4bd5da0475d94021a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27984",
+      "index": 27984,
+      "source_sha256": "38775d70e3833d7f28cd5c5481f7c0722e921de7db95f8a3de882e839375cfc1",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27985",
+      "index": 27985,
+      "source_sha256": "254bb417d306104b03e3e2affbc44162bbe1ace5f9b26f809a36b66c1b023424",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27986",
+      "index": 27986,
+      "source_sha256": "fd0fc1069c589c311e19beae56a974955b94d388189f75ee332eb062cf7c994d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27987",
+      "index": 27987,
+      "source_sha256": "abb40d5366e4c8a5fb171c5d7b10f6c7ab95d9cd51d2a21beec5a4971644850c",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27988",
+      "index": 27988,
+      "source_sha256": "29b2a46be7e16ee43d6ba48e0311053d871fb7c8ee7f328f7504fb430c51381a",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_27989",
+      "index": 27989,
+      "source_sha256": "ba1a8c48058ca6360f3fc471ccdbaf533b3309ddf49e55f12518996c4cbce984",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_30293",
+      "index": 30293,
+      "source_sha256": "5a6a1202d14a66f15489792468f7b3d4c06221edc0f1dd8a6d18c2d93712888d",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_30294",
+      "index": 30294,
+      "source_sha256": "64b042672a211d2a11c655962128d5954e1d47a25afe8f431bf6b25b4c160d20",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_30295",
+      "index": 30295,
+      "source_sha256": "6c75e726f69417c39162c70df74f324615e5ba9ff0a0543167a84a11924da3f4",
+      "status": "pending",
+      "basis": "Manually inspected prose within story/UI source string ranges; native reachability unverified"
+    },
+    {
+      "id": "STRG_24171",
+      "index": 24171,
+      "source_sha256": "e2001874c40fd0f89b694d3ff416ab02cde7d08cc72ebfbb83eaf0459395be83",
+      "status": "pending",
+      "basis": "Manually reviewed display title or chat reply; native reachability unverified"
+    },
+    {
+      "id": "STRG_27949",
+      "index": 27949,
+      "source_sha256": "225ab3255fef581a8bf2df7f3cfc408cf3410a4eae2635c2773fcb00d2a0e122",
+      "status": "pending",
+      "basis": "Manually reviewed display title or chat reply; native reachability unverified"
+    },
+    {
+      "id": "STRG_27962",
+      "index": 27962,
+      "source_sha256": "8b92273efccb6a4525ba3cc738e31acb140f49437286f303621228215786301d",
+      "status": "pending",
+      "basis": "Manually reviewed display title or chat reply; native reachability unverified"
+    },
+    {
+      "id": "STRG_04257",
+      "index": 4257,
+      "source_sha256": "7a9caa3e529df6cec1f4b9f58233a91757deaba9a9959a03d582bfd915f34303",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04258",
+      "index": 4258,
+      "source_sha256": "f2c54bcc91fdcd337f9c7320c36c13add0077af8846851d0e3b5afc0bfcc7ae9",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04259",
+      "index": 4259,
+      "source_sha256": "5c5f94364b9d5a2c5351c2f146bfe6ea959ca0f10374aef1d086a4f31ef5e02a",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04260",
+      "index": 4260,
+      "source_sha256": "7af9f4e8278403a8acb3f451d9a4be221be40e61ef7e2f3e16bfcf351c3a2b42",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04261",
+      "index": 4261,
+      "source_sha256": "f12e32b5d53948519792f62796276fea8a720aee42ed1fe950a0beabbddd95ef",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04262",
+      "index": 4262,
+      "source_sha256": "8b0cab92c4463f947cbca371275675c6c0202e2d3e0deafbf6743c3d10bcb482",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04263",
+      "index": 4263,
+      "source_sha256": "7bad2fb0d32ca2cca9d8bf166a2a54897246b5eeb483b2d8373050ccb5351299",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04264",
+      "index": 4264,
+      "source_sha256": "df51e46c103ae3be7abf7fa062f8f77c06ce9402800a207d377e4cd000de5e6c",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04265",
+      "index": 4265,
+      "source_sha256": "12995660b2176cf8490286a2a35e691172ba2dbaef147bd82b6e25c012e3d359",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04266",
+      "index": 4266,
+      "source_sha256": "c3fdf970de58af04132186293b0baa8cd590f26ade3d6808f14f797bd9f80312",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_04267",
+      "index": 4267,
+      "source_sha256": "f7fa3282ee82173117e9bcc146e709d9321039277807131ab1c553e3422b838a",
+      "status": "pending",
+      "basis": "Audio-effect parameter help text; native UI reachability unverified"
+    },
+    {
+      "id": "STRG_20349",
+      "index": 20349,
+      "source_sha256": "97a285b763c061782c91b929489f30ba8273c705ab90416c73124a88c782537e",
+      "status": "pending",
+      "basis": "Explicit dialogue or user-facing fatal error; native reachability unverified"
+    },
+    {
+      "id": "STRG_20350",
+      "index": 20350,
+      "source_sha256": "06f74caa1ef6660181d1992f28326d6000a5292b08733ea15e794a74b2d77c7a",
+      "status": "pending",
+      "basis": "Explicit dialogue or user-facing fatal error; native reachability unverified"
+    },
+    {
+      "id": "STRG_20351",
+      "index": 20351,
+      "source_sha256": "7e91f22da035301d72fb6dfaf149a893d2db15b7f729d2b610f54e3d3de3e7a5",
+      "status": "pending",
+      "basis": "Explicit dialogue or user-facing fatal error; native reachability unverified"
+    },
+    {
+      "id": "STRG_20352",
+      "index": 20352,
+      "source_sha256": "5807caf04fc94b5296db2b45c554c8c86d3a9c3fe5e4cedde8ffeac772895fe7",
+      "status": "pending",
+      "basis": "Explicit dialogue or user-facing fatal error; native reachability unverified"
+    },
+    {
+      "id": "STRG_23132",
+      "index": 23132,
+      "source_sha256": "684a43a01106dc9724e4303f292f9fcb760a27aba0a7d259178ccdc8a34f6679",
+      "status": "pending",
+      "basis": "Explicit dialogue or user-facing fatal error; native reachability unverified"
+    }
+  ]
+}
